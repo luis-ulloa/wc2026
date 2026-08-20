@@ -1,0 +1,400 @@
+﻿id,short_name,team,name,birth_place,birth_date, height_cm ,position
+001IRQ,A. Al-Ammari,IRQ,Amir Al-Ammari,"Jönköping, Sweden",7/27/1997,180,MF
+002SAU,A. Al-Amri,SAU,Abdulelah Ali Al-Amri,"Taif, Saudi Arabia",1/15/1997,185,DF
+003PAN,A. Andrade,PAN,Andrés Andrade,"Panama City, Panama",10/16/1998,187,DF
+004PRY,Á. Arce,PRY,Álex Arce,"Carapeguá, Paraguay",6/16/1995,188,FW
+005ESP,Á. Baena,ESP,Álex Baena,"Roquetas de Mar, Spain",7/20/2001,172,MF
+006HRV,A. Budimir,HRV,Ante Budimir,"Zenica, SR Bosnia and Herzegovina",7/22/1991,190,FW
+007URY,A. Canobbio,URY,Agustín Canobbio,"Montevideo, Uruguay",10/1/1998,176,MF
+008AUS,A. Circati,AUS,Alessandro Circati,"Fidenza, Italy",10/10/2003,191,DF
+009PRY,A. Cubas,PRY,Andrés Cubas,"Aristóbulo del Valle, Argentina",5/11/1996,166,MF
+010BIH,A. Dedić,BIH,Amar Dedić,"Zell am See, Austria",8/18/2002,180,DF
+011CIV,A. Diallo,CIV,Amad Diallo,"Abidjan, Ivory Coast",7/11/2002,173,FW
+012SWE,A. Elanga,SWE,Anthony Elanga,"Malmö, Sweden",4/27/2002,178,FW
+013QAT,A. Fathy,QAT,Ahmed Fathy,"Aswan, Egypt",1/25/1993,171,MF
+014EGY,A. Fatouh,EGY,Ahmed Fatouh,"Cairo, Egypt",3/22/1998,177,DF
+015UZB,A. Fayzullaev,UZB,Abbosbek Fayzullaev,"Sayxunobod, Uzbekistan",10/3/2003,167,MF
+016MEX,Á. Fidalgo,MEX,Álvaro Fidalgo,"Hevia, Siero, Spain",4/9/1997,175,MF
+017ECU,A. Franco,ECU,Alan Franco,"Jujan, Ecuador",8/21/1998,175,MF
+018USA,A. Freeman,USA,Alex Freeman,"Baltimore, Maryland",8/9/2004,188,DF
+019ENG,A. Gordon,ENG,Anthony Gordon,"Liverpool, England",2/24/2001,182,FW
+020DZA,A. Ghouiri,DZA,Amine Ferid Ghouiri,"Bourgoin-Jallieu, France",2/16/2000,180,FW
+021TUR,A. Güler,TUR,Arda Güler,"Altındağ, Turkey",2/25/2005,175,FW
+022MAR,A. Hakimi,MAR,Achraf Hakimi,"Madrid, Spain",11/4/1998,180,DF
+023SCO,A. Hickey,SCO,Aaron Hickey,"Glasgow, Scotland",6/10/2002,185,DF
+024IRQ,A. Hussein,IRQ,Aymen Hussein,"Hawija, Kirkuk, Iraq",3/22/1996,190,FW
+025SWE,A. Isak,SWE,Alexander Isak,"Stockholm, Sweden",9/21/1999,190,FW
+026CAN,A. Johnston,CAN,Alistair Johnston,"Vancouver, British Columbia",10/8/1998,180,DF
+027UZB,A. Khusanov,UZB,Abdukodir Khusanov,"Tashkent, Uzbekistan",2/29/2004,186,DF
+028ESP,A. Laporte,ESP,Aymeric Laporte,"Agen, France",5/27/1994,191,DF
+029AUS,A. Mabil,AUS,Awer Mabil,"Kakuma, Kenya",9/15/1995,178,FW
+030ARG,A. Mac Allister,ARG,Alexis Mac Allister,"Santa Rosa, La Pampa, Argentina",12/24/1998,176,MF
+031QAT,A. Madibo,QAT,Assim Madibo,"Khartoum, Sudan",10/22/1996,168,MF
+032ZAF,A. Modiba,ZAF,Aubrey Modiba,"Polokwane, South Africa",7/22/1995,171,DF
+033IRN,A. Nemati,IRN,Ali Nemati,"Neyshabur, Iran",2/8/1996,182,DF
+034UZB,A. Nematov,UZB,Abduvohid Nematov,"Jizzakh, Uzbekistan",3/20/2001,182,GK
+035NOR,A. Nusa,NOR,Antonio Nusa,"Oslo, Norway",4/17/2005,183,FW
+036JOR,A. Olwan,JOR,Ali Olwan,"Amman, Jordan",3/26/2000,182,FW
+037MAR,A. Ounahi,MAR,Azzedine Ounahi,"Casablanca, Morocco",4/19/2000,182,MF
+038DEU,A. Pavlović,DEU,Aleksandar Pavlović,"Munich, Germany",5/3/2004,188,MF
+039FRA,A. Rabiot,FRA,Adrien Rabiot,"Saint-Maurice, Val-de-Marne, France",4/3/1995,191,MF
+040SCO,A. Robertson,SCO,Andy Robertson,"Glasgow, Scotland",3/11/1994,178,DF
+041USA,A. Robinson,USA,Antonee Robinson,"Milton Keynes, England",8/8/1997,183,DF
+042BEL,A. Saelemaekers,BEL,Alexis Saelemaekers,"Berchem-Sainte-Agathe, Belgium",6/27/1999,180,MF
+043PRY,A. Sanabria,PRY,Antonio Sanabria,"San Lorenzo, Paraguay",3/4/1996,180,FW
+044NOR,A. Schjelderup,NOR,Andreas Schjelderup,"Bodø, Norway",6/1/2004,177,MF
+045SEN,A. Seck,SEN,Abdoulaye Seck,"M'Bour, Senegal",6/4/1992,192,DF
+046GHA,A. Seidu,GHA,Alidu Seidu,"Kumasi, Ghana",6/4/2000,173,DF
+047FRA,A. Tchouaméni,FRA,Aurélien Tchouaméni,"Rouen, Seine-Maritime, France",1/27/2000,188,MF
+048USA,A. Trusty,USA,Auston Trusty,"Media, Pennsylvania",8/12/1998,190,DF
+049JPN,A. Ueda,JPN,Ayase Ueda,"Mito, Ibaraki, Japan",8/28/1998,182,FW
+050BEL,A. Witsel,BEL,Axel Witsel,"Liège, Belgium",1/12/1989,186,MF
+051FRA,B. Barcola,FRA,Bradley Barcola,"Villeurbanne, France",9/2/2002,187,FW
+052NLD,B. Brobbey,NLD,Brian Brobbey,"Amsterdam, Netherlands",2/1/2002,181,FW
+053COD,B. Cipenga,COD,Brian Cipenga,"Kinshasa, DR Congo",3/11/1998,172,FW
+054MAR,B. El Khannouss,MAR,Bilal El Khannouss,"Molenbeek-Saint-Jean, Belgium",5/10/2004,180,MF
+055CHE,B. Embolo,CHE,Breel Embolo,"Yaoundé, Cameroon",2/14/1997,184,FW
+056BRA,B. Guimarães,BRA,Bruno Guimarães,"Rio de Janeiro, Brazil",11/16/1997,182,MF
+057MEX,B. Gutiérrez,MEX,Brian Gutiérrez,"Berwyn, Illinois",6/17/2003,178,MF
+058BEL,B. Mechele,BEL,Brandon Mechele,"Bredene, Belgium",1/28/1993,190,DF
+059ENG,B. Saka,ENG,Bukayo Saka,"Ealing, London, England",9/5/2001,178,FW
+060PRT,B. Silva,PRT,Bernardo Silva,"Lisbon, Portugal",8/10/1994,173,MF
+061TUR,B. Yilmaz,TUR,Barış Alper Yılmaz,"Rize, Turkey",5/23/2000,186,FW
+062HTI,C. Arcus,HTI,Carlens Arcus,"Port-au-Prince, Haiti",6/28/1996,180,DF
+063PAN,C. Blackman,PAN,César Blackman,"Panama City, Panama",4/2/1998,174,DF
+064AUS,C. Burgess,AUS,Cameron Burgess,"Aberdeen, Scotland",10/21/1995,194,DF
+065BEL,C. De Ketelaere,BEL,Charles De Ketelaere,"Bruges, Belgium",3/10/2001,192,FW
+066NLD,C. Gakpo,NLD,Cody Gakpo,"Eindhoven, Netherlands",5/7/1999,193,FW
+067KOR,C. Gue-Sung,KOR,Cho Gue-sung,"Ansan, South Korea",1/25/1998,188,FW
+068PAN,C. Harvey,PAN,Carlos Harvey,"Panama City, Panama",2/3/2000,184,DF
+069COL,C. Hernández,COL,Cucho Hernández,"Pereira, Colombia",4/20/1999,176,FW
+070CHE,C. Itten,CHE,Cedric Itten,"Basel, Switzerland",12/27/1996,190,FW
+071CAN,C. Larin,CAN,Cyle Larin,"Brampton, Ontario",4/17/1995,188,FW
+072COD,C. Mbemba,COD,Chancel Mbemba,"Kinshasa, DR Congo",8/8/1994,182,DF
+073NZL,C. McCowatt,NZL,Callum McCowatt,"Auckland, New Zealand",4/30/1999,180,MF
+074AUS,C. Metcalfe,AUS,Connor Metcalfe,"Newcastle, New South Wales",11/5/1999,183,MF
+075MEX,C. Montes,MEX,César Montes,"Hermosillo, Sonora",2/24/1997,191,DF
+076COD,C. Pickel,COD,Charles Pickel,"Solothurn, Switzerland",5/15/1997,187,MF
+077USA,C. Richards,USA,Chris Richards,"Birmingham, Alabama",3/28/2000,189,DF
+078ARG,C. Romero,ARG,Cristian Romero,"Córdoba, Argentina",4/27/1998,185,DF
+079PRT,C. Ronaldo,PRT,Cristiano Ronaldo,"Funchal, Madeira",2/5/1985,185,FW
+080NLD,C. Summerville,NLD,Crysencio Summerville,"Rotterdam, Netherlands",10/30/2001,172,FW
+081MAR,C. Talbi,MAR,Chemsdine Talbi,"Sambreville, Belgium",5/9/2005,175,MF
+082GHA,C. Yirenkyi,GHA,Caleb Yirenkyi,"Bechem, Ghana",1/15/2006,182,MF
+083BRA,Casemiro,BRA,Carlos Henrique Casimiro,"São José dos Campos, São Paulo",2/23/1992,185,MF
+084PRY,D. Bobadilla,PRY,Damián Bobadilla,"Asunción, Paraguay",7/11/2001,180,MF
+085CPV,D. Borges,CPV,Diney Borges,"Tarrafal, Cape Verde",1/17/1995,185,DF
+086CAN,D. Cornelius,CAN,Derek Cornelius,"Ajax, Ontario",11/25/1997,186,DF
+087FRA,D. Doué,FRA,Désiré Doué,"Angers, Maine-et-Loire",6/3/2005,182,FW
+088CPV,D. Duarte,CPV,Deroy Duarte,"Rotterdam, Netherlands",7/4/1999,177,MF
+089PRY,D. Gómez,PRY,Diego Gómez,"San Juan Bautista, Paraguay",3/27/2003,183,MF
+090HTI,D. Jean Jacques,HTI,Danley Jean Jacques,"Petit-Goâve, Haiti",5/20/2000,182,MF
+091JPN,D. Kamada,JPN,Daichi Kamada,"Iyo, Ehime, Japan",8/5/1996,180,MF
+092GHA,D. Luckassen,GHA,Derrick Luckassen,"Amsterdam, Netherlands",7/3/1995,188,DF
+093JPN,D. Maeda,JPN,Daizen Maeda,"Taishi, Osaka, Japan",10/20/1997,173,MF
+094COL,D. Muñoz,COL,Daniel Muñoz,"Amalfi, Antioquia, Colombia",5/26/1996,180,DF
+095HTI,D. Nazon,HTI,Duckens Nazon,"Châtenay-Malabry, France",4/7/1994,181,FW
+096CHE,D. Ndoye,CHE,Dan Ndoye,"Nyon, Switzerland",10/25/2000,184,FW
+097ENG,D. Rice,ENG,Declan Rice,"Kingston upon Thames, London, England",1/14/1999,185,MF
+098COL,D. Sánchez,COL,Davinson Sánchez,"Caloto, Cauca, Colombia",6/12/1996,188,DF
+099BRA,D. Santos,BRA,Douglas Santos,"João Pessoa, Paraíba, Brazil",3/22/1994,173,DF
+100DEU,D. Undav,DEU,Deniz Undav,"Varel, Germany",7/19/1996,179,FW
+101CHE,D. Zakaria,CHE,Denis Zakaria,"Geneva, Switzerland",11/20/1996,189,MF
+102BRA,Danilo,BRA,Danilo Luiz da Silva,"Bicas, Minas Gerais",7/15/1991,184,DF
+103MEX,E. Álvarez,MEX,Edson Álvarez,"Tlalnepantla, State of Mexico",10/24/1997,180,DF
+104ENG,E. Anderson,ENG,Elliot Anderson,"Whitley Bay, Tyne and Wear, England",11/6/2002,179,MF
+105EGY,E. Ashour,EGY,Emam Ashour,"El Senbellawein, Dakahlia, Egypt",2/20/1998,180,MF
+106PAN,É. Bárcenas,PAN,Édgar Yoel Bárcenas,"Colón, Panama",10/23/1993,175,MF
+107BIH,E. Demirović,BIH,Ermedin Demirović,"Hamburg, Germany",3/25/1998,185,FW
+108BIH,E. Džeko,BIH,Edin Džeko,"Sarajevo, Bosnia and Herzegovina",3/17/1986,192,FW
+109TUR,E. Elmali,TUR,Eren Elmalı,"Istanbul, Turkey",7/7/2000,181,DF
+110ARG,E. Fernández,ARG,Enzo Fernández,"San Martín, Buenos Aires",1/17/2001,178,MF
+111NOR,E. Haaland,NOR,Erling Braut Haaland,"Leeds, West Yorkshire, England",7/21/2000,195,FW
+112IRN,E. Hajsafi,IRN,Ehsan Hajsafi,"Kashan, Iran",2/25/1990,178,DF
+113NZL,E. Just,NZL,Elijah Just,"Palmerston North, New Zealand",5/1/2000,176,MF
+114ENG,E. Konsa,ENG,Ezri Ngoyo Konsa,"Silvertown, London, England",10/23/1997,180,DF
+115BIH,E. Mahmić,BIH,Ermin Mahmić,"Wels, Austria",3/14/2005,182,MF
+116UZB,E. Shomurodov,UZB,Eldor Azamat oʻgʻli Shomurodov,"Jarqoʻrgʻon, Uzbekistan",6/29/1995,190,FW
+117TUN,E. Skhiri,TUN,Ellyes Joris Skhiri,"Lunel, France",5/10/1995,185,MF
+118SAU,F. Al-Brikan,SAU,Firas Tariq Nasser Al-Buraikan,"Riyadh, Saudi Arabia",5/14/2000,185,FW
+119PRY,F. Balbuena,PRY,Fabián Cornelio Balbuena González,"Ciudad del Este, Paraguay",8/23/1991,188,DF
+120USA,F. Balogun,USA,Folarin Jerry Balogun,"Brooklyn, New York",7/3/2001,179,FW
+121DZA,F. Chaïbi,DZA,Farès Chaïbi,"Lyon, France",11/28/2002,183,MF
+122SCO,F. Curtis,SCO,Findlay Kenneth Curtis,"Balfron, Stirlingshire, Scotland",6/9/2006,180,FW
+123GHA,F. Issahaku,GHA,Abdul Fatawu Issahaku,"Tamale, Ghana",3/8/2004,177,FW
+124CIV,F. Kessié,CIV,Franck Yannick Kessié,"Ouragahio, Ivory Coast",12/19/1996,183,MF
+125COD,F. Mayele,COD,Mayele Fiston Kalala,"Mbuji-Mayi, DR Congo",6/24/1994,185,FW
+126ARG,F. Medina,ARG,Facundo Axel Medina,"Villa Fiorito, Argentina",5/28/1999,184,DF
+127DEU,F. Nmecha,DEU,Felix Kalu Nmecha,"Hamburg, Germany",10/10/2000,190,MF
+128HTI,F. Pierrot,HTI,Frantzdy Pierrot,"Cap-Haïtien, Haiti",3/29/1995,194,FW
+129ESP,F. Ruiz,ESP,Fabián Ruiz Peña,"Los Palacios y Villafranca, Spain",4/3/1996,188,MF
+130NZL,F. Surman,NZL,Finn Surman,"Cardiff, Wales",9/23/2003,190,DF
+131ESP,F. Torres,ESP,Ferran Torres García,"Foios, Spain",1/11/1997,187,DF
+132BRA,Fabinho,BRA,Fábio Henrique Tavares,"Campinas, Brazil",10/23/1993,188,MF
+133CIV,G. Doué,CIV,Guéla Maho-Lewis Doué,"Angers, France",10/17/2002,187,DF
+134PRY,G. Gómez,PRY,Gustavo Raúl Gómez Portillo,"San Juan Bautista, Paraguay",5/6/1993,179,DF
+135SWE,G. Gudmundsson,SWE,Gabriel Johan Gudmundsson,"Malmö, Sweden",4/29/1999,181,DF
+136CUW,G. Kastaneer,CUW,Gervane Zjandric Adonnis Kastaneer,"Rotterdam, Netherlands",6/9/1996,189,FW
+137ARG,G. Lo Celso,ARG,Giovani Lo Celso,"Rosario, Argentina",4/9/1996,177,MF
+138BRA,G. Martinelli,BRA,Gabriel Teodoro Martinelli Silva,"Guarulhos, São Paulo",6/18/2001,178,FW
+139ARG,G. Montiel,ARG,Gonzalo Ariel Montiel,"González Catán, Buenos Aires,",1/1/1997,175,DF
+140ECU,G. Plata,ECU,Gonzalo Jordy Plata Jiménez,"Guayaquil, Ecuador",11/1/2000,178,FW
+141COL,G. Puerta,COL,Gustavo Adolfo Puerta Molano,"La Victoria, Colombia",7/23/2003,173,DF
+142PRT,G. Ramos,PRT,Gonçalo Matias Ramos,"Olhão, Portugal",6/20/2001,185,FW
+143USA,G. Reyna,USA,Giovanni Alejandro Reyna,"Sunderland, England",11/13/2002,187,MF
+144URY,G. Varela,URY,Guillermo Varela Olivera,"Montevideo, Uruguay",3/24/1993,174,DF
+145CHE,G. Xhaka,CHE,Granit Xhaka,"Basel, Switzerland",9/27/1992,183,MF
+146MAR,G. Yassine,MAR,Gessime Ben Youssef Mustapha Yassine,"Salon-de-Provence, France",11/22/2005,172,MF
+147EGY,H. Abdelmaguid,EGY,Hossam Abdelmaguid Abdelsalam Abdelmaguid,"Giza, Egypt",4/30/2001,193,DF
+148JOR,H. Abu Dahab,JOR,Husam Ali Mohammad Abu Dahab,"Amman, Jordan",5/13/2000,186,DF
+149QAT,H. Ahmed,QAT,Homam El-Amin Mohamed Ahmed,"Doha, Qatar",8/25/1999,188,DF
+150QAT,H. Al-Haydos,QAT,Hassan Khalid Hassan Al-Haydos,"Doha, Qatar",12/11/1990,174,FW
+151SAU,H. Al-Tambakti,SAU,Hassan Mohammed Osama Al-Tambakti,"Riyadh, Saudi Arabia",2/9/1999,183,DF
+152DZA,H. Boudaoui,DZA,Hicham Boudaoui,"Béchar, Algeria",9/23/1999,175,MF
+153SEN,H. Diarra,SEN,Mouhamadou Habib Mbacke Diarra,"Guédiawaye, Senegal",1/3/2004,178,MF
+154EGY,H. Fathy,EGY,Hamdy Fathy Abdelhalim Abdelfattah,"Beheira, Egypt",9/29/1994,183,MF
+155EGY,H. Hassan,EGY,Haissem Yousry Fouad A. Hassan,"Paris, France",2/8/2002,175,FW
+156KOR,H. In-Beom,KOR,Hwang In-beom,"Daejeon, South Korea",9/20/1996,177,MF
+157IRN,H. Kanani,IRN,Mohammad Hossein Kanaanizadegan,"Bandar-e Mahshahr, Iran",3/23/1994,188,DF
+158ENG,H. Kane,ENG,Harry Edward Kane,"Leytonstone, London, England",7/28/1993,190,FW
+159TUN,H. Mastouri,TUN,Hazem Mastouri,"Tunis, Tunisia",6/18/1997,191,FW
+160AUS,H. Souttar,AUS,Harry James Souttar,"Aberdeen, Scotland",10/22/1998,198,DF
+161BEL,H. Vanaken,BEL,Hans Vanaken,"Pelt, Belgium",8/24/1992,195,MF
+162CPV,H. Varela,CPV,Hélio Sandro Oliveira Alves Varela,"Almada, Portugal",5/3/2002,176,MF
+163MAR,I. Diop,MAR,Issa Laye Lucas Jean Diop,"Toulouse, France",1/9/1997,194,DF
+164SWE,I. Hien,SWE,Isak Malcolm Kwaku Hien,"Stockholm, Sweden",1/13/1999,191,DF
+165SEN,I. Mbaye,SEN,Ibrahim Mbaye,"Trappes, Yvelines, France",1/24/2008,175,FW
+166SEN,I. Ndiaye,SEN,Iliman Cheikh Baroy Ndiaye,"Rouen, France",3/6/2000,180,FW
+167HRV,I. Perišić,HRV,Ivan Perišić,"Split, Croatia",2/2/1989,186,FW
+168MAR,I. Saibari,MAR,Ismael Saibari Ben El Basra,"Terrassa, Spain",1/28/2001,185,MF
+169SEN,I. Sarr,SEN,Ismaïla Sarr,"Saint-Louis, Senegal",2/25/1998,185,FW
+170GHA,I. Williams,GHA,Iñaki Williams Arthuer,"Bilbao, Spain",6/15/1994,186,FW
+171ECU,J. Alcívar,ECU,Jordy José Alcívar Macías,"Manta, Ecuador",8/5/1999,168,MF
+172PRY,J. Alonso,PRY,Júnior Osmar Ignacio Alonso Mujica,"Asunción, Paraguay",2/9/1993,184,DF
+173ARG,J. Álvarez,ARG,Julián Alvarez,"Calchín, Argentina",1/31/2000,170,FW
+174COL,J. Arias,COL,Jhon Adolfo Arias Andrade,"Quibdó, Colombia",9/21/1997,168,MF
+175CUW,J. Bacuna,CUW,Juninho Gracielo Bacuna,"Groningen, Netherlands",8/7/1997,178,MF
+176HTI,J. Bellegarde,HTI,Jean-Ricner Bellegarde,"Colombes, France",6/27/1998,170,MF
+177ENG,J. Bellingham,ENG,Jude Victor William Bellingham,"Stourbridge, West Midlands, England",6/29/2003,183,MF
+178AUS,J. Bos,AUS,Jordan Jacob Bos,"Melbourne, Victoria, Australia",10/29/2002,180,DF
+179PRY,J. Cáceres,PRY,Juan José Cáceres,"Isla Maciel, Argentina",6/1/2000,187,DF
+180COL,J. Campaz,COL,Jaminton Leandro Campaz,"Tumaco, Nariño, Colombia",5/24/2000,166,FW
+181PRY,J. Canale,PRY,José María Canale Domínguez,"Itauguá, Paraguay",7/20/1996,192,DF
+182HTI,J. Casimir,HTI,Josué Casimir,"Baie-Mahault, Guadeloupe",9/24/2001,178,FW
+183CAN,J. David,CAN,Jonathan Christian David,"Brooklyn, New York",1/14/2000,175,FW
+184PRY,J. Enciso,PRY,Julio César Enciso Espínola,"Caaguazú, Paraguay",1/23/2004,168,FW
+185PAN,J. Fajardo,PAN,José Fajardo Nelson,"Colón, Panama",8/18/1993,184,FW
+186CUW,J. Gaari,CUW,Juriën Godfried Juan Gaari,"Kerkrade, Netherlands",12/23/1993,183,DF
+187QAT,J. Gaber,QAT,Jassem Gaber El-Sayed Abdulsalam,"Doha, Qatar",2/20/2002,181,DF
+188ENG,J. Henderson,ENG,Jordan Brian Henderson,"Sunderland, Tyne and Wear, England",6/17/1990,183,MF
+189AUS,J. Irvine,AUS,Jackson Alexander Irvine,"Melbourne, Australia",3/7/1993,189,MF
+190AUS,J. Italiano,AUS,Jacob Michael Italiano,"Perth, Australia",7/30/2001,177,DF
+191JPN,J. Ito,JPN,Junya Itō,"Yokosuka, Japan",3/9/1993,177,MF
+192DEU,J. Kimmich,DEU,Joshua Walter Kimmich,"Rottweil, Germany",2/8/1995,177,DF
+193NLD,J. Kluivert,NLD,Justin Dean Kluivert,"Amsterdam, Netherlands",5/5/1999,173,MF
+194NOR,J. Larsen,NOR,Jørgen Strand Larsen,"Fredrikstad, Norway",2/6/2000,193,FW
+195COL,J. Lerma,COL,Jefferson Andrés Lerma Solís,"El Cerrito, Valle del Cauca",10/25/1994,180,MF
+196ARG,J. López,ARG,José Manuel Alberto López,"San Lorenzo, Argentina",12/6/2000,190,FW
+197COL,J. Lucumí,COL,Jhon Janer Lucumí Bonilla,"Cali, Colombia",6/26/1998,187,DF
+198BIH,J. Lukić,BIH,Jovo Lukić,"Šabac, Serbia",11/28/1998,190,FW
+199CHE,J. Manzambi,CHE,Johan Manzambi,"Geneva, Switzerland",10/14/2005,182,MF
+200SCO,J. McGinn,SCO,John McGinn,"Glasgow, Scotland",10/18/1994,178,MF
+201COL,J. Mojica,COL,Johan Andrés Mojica Palacio,"Cali, Colombia",8/21/1992,184,DF
+202DEU,J. Musiala,DEU,Jamal Musiala,"Stuttgart, Germany",2/26/2003,180,MF
+203PRT,J. Neves,PRT,João Pedro Gonçalves Neves,"Tavira, Portugal",9/27/2004,171,MF
+204HTI,J. Placide,HTI,Johny Placide,"Montfermeil, France",1/29/1988,181,GK
+205ECU,J. Porozo,ECU,Jackson Gabriel Porozo Vernaza,"San Lorenzo, Ecuador",8/4/2000,192,DF
+206ENG,J. Quansah,ENG,Jarell Amorin Quansah,"Warrington, England",1/29/2003,190,DF
+207MEX,J. Quiñones,MEX,Julián Andrés Quiñones Quiñones,"Magüí Payán, Colombia",3/24/1997,177,FW
+208COL,J. Quintero,COL,Juan Fernando Quintero Paniagua,"Medellín, Colombia",1/18/1993,167,MF
+209URY,J. Sanabria,URY,Juan Manuel Sanabria Magole,"Florida, Uruguay",3/29/2000,170,MF
+210MEX,J. Sánchez,MEX,Jorge Eduardo Sánchez Ramos,"Torreón, Mexico",12/10/1997,176,DF
+211JPN,J. Suzuki,JPN,Junya Suzuki,"Numazu, Shizuoka",7/12/2003,180,DF
+212DEU,J. Tah,DEU,Jonathan Glao Tah,"Hamburg, Germany",2/11/1996,195,DF
+213NLD,J. van Hecke,NLD,Jan Paul van Hecke,"Arnemuiden, Netherlands",6/8/2000,189,DF
+214MEX,J. Vásquez,MEX,Johan Felipe Vásquez Ibarra,"Navojoa, Mexico",10/22/1998,182,DF
+215NOR,K. Ajer,NOR,Kristoffer Vassbakk Köpp Ajer,"Rælingen, Norway",4/17/1998,198,DF
+216BIH,K. Alajbegović,BIH,Kerim Alajbegović,"Cologne, Germany",9/21/2007,186,FW
+217TUR,K. Ayhan,TUR,Kaan Ayhan,"Gelsenkirchen, Germany",11/10/1994,185,MF
+218BEL,K. De Bruyne,BEL,Kevin De Bruyne,"Drongen, Belgium",6/28/1991,181,MF
+219DEU,K. Havertz,DEU,Kai Lukas Havertz,"Aachen, Germany",6/11/1999,190,FW
+220AUT,K. Laimer,AUT,Konrad Laimer,"Salzburg, Austria",5/27/1997,180,MF
+221FRA,K. Mbappé,FRA,Kylian Mbappé Lottin,"Paris, France",12/20/1998,180,FW
+222SCO,K. McLean,SCO,Kenny McLean,"Rutherglen, Lanarkshire, Scotland",1/8/1992,183,MF
+223JPN,K. Nakamura,JPN,Keito Nakamura,"Abiko, Chiba",7/28/2000,180,MF
+224GHA,K. Oppong,GHA,Kojo Peprah Oppong,"Accra, Ghana",6/4/2004,185,DF
+225ECU,K. Páez,ECU,Ray Kendry Páez Andrade,"Guayaquil, Ecuador",5/4/2007,178,MF
+226CPV,K. Pina,CPV,Kevin Lenini Gonçalves Pereira de Pina,"Praia, Cape Verde",1/27/1997,177,MF
+227JPN,K. Sano,JPN,Kaishū Sano,"Tsuyama, Okayama",12/30/2000,176,MF
+228CUW,L. Bacuna,CUW,Leandro Jones Johan Bacuna,"Groningen, Netherlands",8/21/1991,180,MF
+229SWE,L. Bergvall,SWE,Lucas Erik Holger Bergvall,"Stockholm, Sweden",2/2/2006,187,MF
+230SEN,L. Camara,SEN,Lamine Camara,"Diouloulou, Senegal",1/1/2004,174,MF
+231CUW,L. Comenencia,CUW,Livano Shyron Liomar Comenencia,"Breda, Netherlands",2/3/2004,185,MF
+232CAN,L. de Fougerolles,CAN,Luc Rollet de Fougerolles,"London, England",10/12/2005,183,DF
+233COL,L. Díaz,COL,Luis Fernando Díaz Marulanda,"Barrancas, La Guajira, Colombia",1/13/1997,179,FW
+234KOR,L. Gi-Hyuk,KOR,Lee Gi-hyuk,"Seoul, South Korea",7/7/2000,184,MF
+235AUS,L. Herrington,AUS,Lucas Herrington,"Brisbane, Queensland",9/5/2007,193,DF
+236KOR,L. Kang-In,KOR,Lee Kang-in,"Incheon, South Korea",2/19/2001,174,MF
+237CZE,L. Krejčí,CZE,Ladislav Krejčí,"Rosice, Czech Republic",4/20/1999,191,DF
+238ARG,L. Messi,ARG,Lionel Andrés Messi,"Rosario, Santa Fe",6/24/1987,170,FW
+239CAN,L. Millar,CAN,Liam Alan Millar,"Toronto, Ontario",9/27/1999,176,MF
+240HRV,L. Modrić,HRV,Luka Modrić,"Zadar, Croatia",9/9/1985,172,MF
+241NOR,L. Østigård,NOR,Leo Skiri Østigård,"Molde, Norway",11/28/1999,183,DF
+242ARG,L. Paredes,ARG,Leandro Daniel Paredes,"San Justo, Buenos Aires",6/29/1994,182,MF
+243MEX,L. Romo,MEX,Luis Francisco Romo Barrón,"Los Mochis, Mexico",6/5/1995,183,MF
+244DEU,L. Sané,DEU,Leroy Aziz Sané,"Essen, Germany",1/11/1996,183,MF
+245COL,L. Suárez,COL,Luis Javier Suárez Charris,"Santa Marta, Colombia",12/2/1997,179,FW
+246BEL,L. Trossard,BEL,Leandro Trossard,"Maasmechelen, Belgium",12/4/1994,172,FW
+247ESP,L. Yamal,ESP,Lamine Yamal Nasraoui Ebana,"Esplugues de Llobregat, Spain",7/13/2007,183,FW
+248ARG,La. Martínez,ARG,Lautaro Javier Martínez,"Bahía Blanca, Argentina",8/22/1997,175,FW
+249ARG,Li. Martínez,ARG,Lisandro Martínez,"Gualeguay, Argentina",1/18/1998,175,DF
+250JOR,M. Abu Taha,JOR,Mohannad Mahmoud Saleh Abu Taha,"Amman, Jordan",2/2/2003,173,MF
+251JOR,M. Abu Zraiq,JOR,Mohammad Faisal Yousef Abu Zrayq,"Ar-Ramtha, Jordan",12/30/1997,170,FW
+252QAT,M. Abunada,QAT,Mahmud Ibrahim Abunada,"Doha, Qatar",2/5/2000,185,GK
+253CHE,M. Akanji,CHE,Manuel Obafemi Akanji,"Neftenbach, Switzerland",7/19/1995,188,DF
+254PRY,M. Almirón,PRY,Miguel Ángel Almirón Rejala,"Asunción, Paraguay",2/10/1994,178,MF
+255JOR,M. Al-Tamari,JOR,Musa Mohammad Mousa Sulaiman Al-Taamari,"Amman, Jordan",6/10/1997,176,FW
+256URY,M. Araújo,URY,Maximiliano Javier Araújo Vilches,"Montevideo, Uruguay",2/15/2000,176,MF
+257AUT,M. Arnautovic,AUT,Marko Arnautović,"Vienna, Austria",4/19/1989,192,FW
+258EGY,M. Attia,EGY,Marwan Attia Fahim Ghallab Rashwan,"Kafr El Dawwar, Egypt",8/1/1998,176,MF
+259HRV,M. Baturina,HRV,Martin Baturina,"Zurich, Switzerland",2/16/2003,172,MF
+260ECU,M. Caicedo,ECU,Moisés Isaac Caicedo Corozo,"Santo Domingo, Ecuador",11/2/2001,178,MF
+261MEX,M. Chávez,MEX,Mateo Chávez García,"San Pedro Garza García, Mexico",5/12/2004,178,DF
+262ESP,M. Cucurella,ESP,Marc Cucurella Saseta,"Alella, Spain",7/22/1998,173,DF
+263BRA,M. Cunha,BRA,Matheus Santos Carneiro da Cunha,"João Pessoa, Paraíba, Brazil",5/27/1999,183,FW
+264BEL,M. De Cuyper,BEL,Maxim Peter M. De Cuyper,"Knokke-Heist, Belgium",12/22/2000,182,DF
+265NLD,M. Depay,NLD,Memphis Depay,"Moordrecht, Netherlands",2/13/1994,178,FW
+266IRQ,M. Doski,IRQ,Merchas Ghazi Salih Doski,"Hanover, Germany",12/7/1999,173,DF
+267PRY,M. Galarza,PRY,Matías Galarza Fonda,"Asunción, Paraguay",2/11/2002,175,MF
+268ENG,M. Guéhi,ENG,Addji Keaninkin Marc-Israel Guéhi,"Abidjan, Ivory Coast",7/13/2000,183,DF
+269EGY,M. Hany,EGY,Mohamed Hany Gamal El-Demerdash,"Cairo, Egypt",2/2/1996,175,DF
+270NOR,M. Holmgren,NOR,Marcus Holmgren Pedersen,"Hammerfest, Norway",7/16/2000,184,DF
+271SAU,M. Kanno,SAU,Mohamed Ibrahim Abdullah Kanno,"Khobar, Saudi Arabia",9/22/1994,191,MF
+272FRA,M. Koné,FRA,Kouadio Emmanuel Boris Koné,"Colombes, Hauts-de-Seine, France",5/17/2001,185,MF
+273EGY,M. Lashin,EGY,Mohanad Mostafa Ahmed Abdelmonem Lasheen,"Cairo, Egypt",5/29/1996,186,MF
+274QAT,M. Manai,QAT,Mohamed Naceur Manai,Tunisia,10/25/2002,180,FW
+275ESP,M. Merino,ESP,Mikel Merino Zazón,"Pamplona, Spain",6/22/1996,188,MF
+276IRN,M. Mohebbi,IRN,Mohammad Ali Mohebi,"Bushehr, Iran",12/20/1998,187,MF
+277CHE,M. Muheim,CHE,Miro Max Maria Muheim,"Zurich, Switzerland",3/24/1998,182,DF
+278FRA,M. Olise,FRA,Michael Akpovie Olise,"White City, London, England",12/12/2001,184,FW
+279URY,M. Olivera,URY,Mathías Olivera Miramontes,"Montevideo, Uruguay",10/31/1997,174,DF
+280ESP,M. Oyarzabal,ESP,Mikel Oyarzabal Ugarte,"Eibar, Spain",4/21/1997,181,FW
+281ENG,M. Rashford,ENG,Marcus Rashford,"Manchester, England",10/31/1997,180,FW
+282EGY,M. Saber,EGY,Mohamed Saber Abdelmohsen Hassan Abdelmohsen,Egypt,7/30/2001,170,MF
+283AUT,M. Sabitzer,AUT,Marcel Sabitzer,"Wels, Austria",3/17/1994,178,MF
+284CZE,M. Sadílek,CZE,Michal Sadílek,"Uherské Hradiště, Czech Republic",5/31/1999,169,MF
+285EGY,M. Salah,EGY,Mohamed Salah Hamed Mahrous Ghaly,"Nagrig, Egypt",6/15/1992,175,FW
+286EGY,M. Shoubir,EGY,Mostafa Ahmed Abdelaziz Mohamed Shobeir,"Giza, Egypt",5/15/2000,195,GK
+287NZL,M. Stamenic,NZL,Marko Seufatu Nikola Stamenić,"Wellington, New Zealand",2/19/2002,188,MF
+288SWE,M. Svanberg,SWE,Mattias Olof Svanberg,"Malmö, Sweden",1/5/1999,186,MF
+289IRN,M. Taremi,IRN,Mehdi Taremi,"Bushehr, Iran",7/18/1992,187,FW
+290USA,M. Tillman,USA,Malik Leon Tillman,"Nuremberg, Germany",5/28/2002,187,MF
+291NLD,M. van de Ven,NLD,Micky van de Ven,"Wormer, Netherlands",4/19/2001,193,DF
+292EGY,M. Zico,EGY,Mostafa Mohamed Zaky Abdelraouf,"Shibin El Kom, Egypt",4/27/1997,179,MF
+293PRY,Maurício,PRY,Maurício Magalhães Prado,"São Paulo, Brazil",6/22/2001,175,MF
+294SAU,N. Al-Dawsari,SAU,Nasser Essa Shafi Al-Shardan Al-Dawsari,"Riyadh, Saudi Arabia",12/19/1998,178,MF
+295JOR,N. Al-Rashdan,JOR,Nizar Mahmoud Ahmed Al-Rashdan,"Irbid, Jordan",3/23/1999,183,MF
+296DEU,N. Amiri,DEU,Nadiem Amiri,"Ludwigshafen, Germany",10/27/1996,178,MF
+297ECU,N. Angulo,ECU,Nilson David Angulo Ramírez,"Quinindé, Ecuador",6/19/2003,184,FW
+298DZA,N. Benbouali,DZA,Ahmed Nadhir Benbouali,"Chlef, Algeria",4/17/2000,190,FW
+299DEU,N. Brown,DEU,Nathaniel Christopher Brown,"Amberg, Germany",6/16/2003,176,DF
+300URY,N. de la Cruz,URY,Diego Nicolás de la Cruz Arcosa,"Montevideo, Uruguay",6/1/1997,167,MF
+301MAR,N. El Aynaoui,MAR,Neil Yoni El Aynaoui,"Nancy, France",7/2/2001,185,MF
+302CHE,N. Elvedi,CHE,Nico Elvedi,"Zürich, Switzerland",9/30/1996,189,DF
+303AUS,N. Irankunda,AUS,Nestory Irankunda,"Kigoma, Tanzania",2/9/2006,165,FW
+304BIH,N. Katić,BIH,Nikola Katić,"Ljubuški, Bosnia and Herzegovina",10/10/1996,194,DF
+305COD,N. Mbuku,COD,Nathanaël Mbuku Wa Mbuku,"Villeneuve-Saint-Georges, France",3/16/2002,170,MF
+306PRT,N. Mendes,PRT,Nuno Alexandre Tavares Mendes,"Sintra, Portugal",6/19/2002,177,DF
+307BEL,N. Ngoy,BEL,Nathan Ngoy,"Brussels, Belgium",6/10/2003,183,DF
+308ENG,N. O'Reilly,ENG,Nico O'Reilly,"Manchester, England",3/21/2005,177,DF
+309CIV,N. Pépé,CIV,Nicolas Pépé,"Mantes-la-Jolie, France",5/29/1995,183,FW
+310COD,N. Sadiki,COD,Noah Junior Sadiki,"Brussels, Belgium",12/17/2004,165,MF
+311CAN,N. Saliba,CAN,Nathan-Dylan Saliba,"Longueuil, Quebec, Canada",2/7/2004,174,MF
+312DEU,N. Schlotterbeck,DEU,Nico Cédric Schlotterbeck,"Waiblingen, Germany",12/1/1999,191,DF
+313PRT,N. Semedo,PRT,Nélson Cabral Semedo,"Lisbon, Portugal",11/16/1993,179,DF
+314ZAF,N. Sibisi,ZAF,Nkosinathi Emmanuel Sibisi,"Durban, South Africa",9/22/1995,172,DF
+315CAN,N. Sigur,CAN,Niko Kristian Sigur,"Burnaby, British Columbia, Canada",9/9/2003,178,DF
+316HRV,N. Vlašić,HRV,Nikola Vlašić,"Split, Croatia",10/4/1997,179,MF
+317DEU,N. Woltemade,DEU,Nick Woltemade,"Bremen, Germany",2/14/2002,198,FW
+318BRA,Neymar Jr,BRA,Neymar da Silva Santos Júnior,"Mogi das Cruzes, São Paulo, Brazil",2/5/1992,175,FW
+319FRA,O. Dembélé,FRA,Masour Ousmane Dembélé,"Vernon, Eure, France",5/15/1997,179,FW
+320KOR,O. Hyeon-Gyu,KOR,Oh Hyeon-gyu,"Namyangju, South Korea",4/12/2001,183,FW
+321TUN,O. Rekik,TUN,Omar Rekik,"Helmond, Netherlands",12/20/2001,188,DF
+322UZB,O. Xamrobekov,UZB,Odiljon Hamrobekov,"Shorqorgon, Namangan Region, Uzbekistan",2/13/1996,180,MF
+323NOR,P. Berg,NOR,Patrick Berg,"Bodø, Norway",11/24/1997,178,MF
+324ESP,P. Cubarsí,ESP,Pau Cubarsí Paredes,"Bescanó, Spain",1/22/2007,183,DF
+325CAN,P. David,CAN,Promise Oluwatobi Emmanuel David Akinpelu,"Brampton, Ontario, Canada",7/3/2001,195,FW
+326SEN,P. Gueye,SEN,Pape Alassane Gueye,"Montreuil, France",1/24/1999,189,MF
+327ECU,P. Hincapié,ECU,Piero Martín Hincapié Reyna,"Esmeraldas, Ecuador",1/9/2002,183,DF
+328HRV,P. Musa,HRV,Petar Musa,"Zagreb, Croatia",3/4/1998,190,FW
+329ESP,P. Porro,ESP,Pedro Antonio Porro Sauceda,"Don Benito, Spain",9/13/1999,173,DF
+330KOR,P. Seung-Ho,KOR,Paik Seung-ho,"Seoul, South Korea",3/17/1997,182,MF
+331HRV,P. Sučić,HRV,Petar Sučić,"Livno, Bosnia and Herzegovina",10/25/2003,183,MF
+332ESP,Pedri,ESP,Pedro González López,"Bajamar, Spain",11/25/2002,174,MF
+333NLD,Q. Timber,NLD,Quinten Ryan Crispito Timber,"Utrecht, Netherlands",6/17/2001,176,MF
+334DZA,R. Belghali,DZA,Rafik Belghali,"Leuven, Belgium",6/7/2002,180,DF
+335URY,R. Bentancur,URY,Rodrigo Bentancur Colman,"Nueva Helvecia, Uruguay",6/25/1997,187,MF
+336SCO,R. Christie,SCO,Ryan Christie,"Inverness, Scotland",2/22/1995,178,MF
+337ARG,R. De Paul,ARG,Rodrigo Javier De Paul,"Sarandí, Buenos Aires, Argentina",5/24/1994,178,MF
+338PRT,R. Dias,PRT,Rúben dos Santos Gato Alves Dias,"Amadora, Portugal",5/14/1997,187,DF
+339MAR,R. Halhal,MAR,Redouane Halhal,"Montpellier, France",3/5/2003,189,DF
+340BRA,R. Ibañez,BRA,Roger Ibañez da Silva,"Canela, Brazil",11/23/1998,186,DF
+341MEX,R. Jiménez,MEX,Raúl Alonso Jiménez Rodríguez,"Tepeji, Hidalgo, Mexico",5/5/1991,188,FW
+342TUN,R. Khedira,TUN,Rani Khedira,"Stuttgart, Germany",1/27/1994,188,MF
+343CAN,R. Laryea,CAN,Richmond Mamah Laryea,"Toronto, Ontario, Canada",1/7/1995,175,DF
+344PRT,R. Leão,PRT,Rafael Alexandre da Conceição Leão,"Seixal, Portugal",6/10/1999,188,FW
+345BEL,R. Lukaku,BEL,Romelu Lukaku Bolingoli,"Antwerp, Belgium",5/13/1993,190,FW
+346DZA,R. Mahrez,DZA,Riyad Karim Mahrez,"Clichy, France",2/21/1991,179,FW
+347EGY,R. Rabia,EGY,Ramy Hisham Abdel Aziz Moustafa Rabia,"Cairo, Egypt",5/20/1993,183,DF
+348IRN,R. Rezaeian,IRN,Ramin Rezaeian Salehrad,"Sari, Mazandaran, Iran",3/21/1990,184,DF
+349COL,R. Ríos,COL,Richard Ríos Montoya,"Vegachí, Colombia",6/2/2000,185,MF
+350AUT,R. Schmid,AUT,Romano Christian Schmid,"Graz, Austria",1/27/2000,168,MF
+351IRQ,R. Sulaka,IRQ,Rebin Gharib Sulaka Adhamat,"Ankawa, Erbil, Iraq",4/12/1992,193,DF
+352CHE,R. Vargas,CHE,Rubén Estephan Vargas Martínez,"Adligenswil, Switzerland",8/5/1998,179,FW
+353PRT,R. Veiga,PRT,Renato da Palma Veiga,"Lisbon, Portugal",7/29/2003,188,DF
+354DZA,R. Zerrouki,DZA,Ramiz Larbi Zerrouki,"Amsterdam, Netherlands",5/26/1998,183,MF
+355SAU,S. Abdulhamid,SAU,Saud Abdullah Salem Abdulhamid,"Jeddah, Saudi Arabia",7/18/1999,172,DF
+356SAU,S. Al-Dawsari,SAU,Salem Mohammed Shafi Al-Dawsari,"Jeddah, Saudi Arabia",8/19/1991,173,FW
+357USA,S. Berhalter,USA,Sebastian Matthew Berhalter,"London, England",5/10/2001,175,MF
+358CAN,S. Eustáquio,CAN,Stephen Antunes Eustáquio,"Leamington, Ontario, Canada",12/21/1996,175,MF
+359IRN,S. Ezatolahi,IRN,Saeid Ezatolahi Afagh,"Bandar-e Anzali, Iran",10/1/1996,189,MF
+360CIV,S. Fofana,CIV,Seko Mohamed Fofana,"Paris, France",5/7/1995,185,MF
+361AUT,S. Kalajdžić,AUT,Saša Kalajdžić,"Vienna, Austria",7/7/1997,200,FW
+362IRN,S. Khalilzadeh,IRN,Shojae Khalilzadeh,"Bahnemir, Mazandaran, Iran",5/14/1989,183,DF
+363CPV,S. Lopes Cabral,CPV,Sidny Lopes Cabral,"Rotterdam, Netherlands",9/18/2002,176,DF
+364COD,S. Moutoussamy,COD,Samuel Albert Alain Arcade Moutoussamy,"Paris, France",8/12/1996,176,MF
+365UZB,S. Nasrullaev,UZB,Sherzod Innatillo oʻgʻli Nasrullayev,"Koson, Uzbekistan",7/23/1998,183,DF
+366AUT,S. Posch,AUT,Stefan Posch,"Judenburg, Austria",5/14/1997,188,DF
+367BIH,S. Radeljić,BIH,Stjepan Radeljić,"Nova Bila, Bosnia and Herzegovina",9/5/1997,201,DF
+368MAR,S. Rahimi,MAR,Soufiane Rahimi,"Casablanca, Morocco",6/2/1996,180,FW
+369NZL,S. Singh,NZL,Sarpreet Singh,"Auckland, New Zealand",2/20/1999,180,MF
+370ZAF,S. Sithole,ZAF,Sphephelo S'Miso Sithole,"Ulundi, South Africa",3/3/1999,197,MF
+371JPN,S. Taniguchi,JPN,Shōgo Taniguchi,"Kumamoto, Kumamoto, Japan",7/15/1991,185,DF
+372NOR,T. Aasgaard,NOR,Thelonious Gerard Aasgaard,"Liverpool, England",5/2/2002,188,MF
+373USA,T. Adams,USA,Tyler Shaan Adams,"Wappingers Falls, New York",2/14/1999,175,MF
+374ARG,T. Almada,ARG,Thiago Ezequiel Almada,"Ciudadela, Buenos Aires, Argentina",4/26/2001,171,FW
+375PRT,T. Araújo,PRT,Tomás Lemos Araújo,"Vila Nova de Famalicão, Portugal",5/16/2002,187,DF
+376BEL,T. Castagne,BEL,Timothy Castagne,"Arlon, Belgium",12/5/1995,185,DF
+377NLD,T. Koopmeiners,NLD,Teun Koopmeiners,"Castricum, Netherlands",2/28/1998,185,MF
+378ZAF,T. Maseko,ZAF,Thapelo Maseko,"Sebokeng, Gauteng, South Africa",11/11/2003,178,FW
+379ZAF,T. Mbatha,ZAF,Thalente Wandile Mbatha,"KwaMashu, South Africa",3/6/2000,179,MF
+380ZAF,T. Mokoena,ZAF,Teboho Mokoena,"Bethlehem, South Africa",1/24/1997,177,MF
+381BIH,T. Muharemović,BIH,Tarik Muharemović,"Ljubljana, Slovenia",2/28/2003,192,DF
+382ZAF,T. Zwane,ZAF,Themba Zwane,"Tembisa, South Africa",8/3/1989,178,MF
+383EGY,Trézéguet,EGY,Mahmoud Ahmed Ibrahim Hassan,"Kafr El Sheikh, Egypt",10/1/1994,181,FW
+384SWE,V. Gyökeres,SWE,Viktor Einar Gyökeres,"Stockholm, Sweden",6/4/1998,189,FW
+385BRA,V. Júnior,BRA,Vinícius José Paixão de Oliveira Júnior,"São Gonçalo, Rio de Janeiro, Brazil",7/12/2000,176,FW
+386NLD,V. van Dijk,NLD,Virgil van Dijk,"Breda, North Brabant",7/8/1991,195,DF
+387HTI,W. Isidor,HTI,Wilson Isidor,"Rennes, France",8/27/2000,184,FW
+388USA,W. McKennie,USA,Weston James Earl McKennie,"Fort Lewis, Washington",8/28/1998,180,MF
+389CPV,W. Pina,CPV,Wagner Fabrício Cardoso de Pina,"Lisbon, Portugal",11/3/2002,180,DF
+390NLD,W. Weghorst,NLD,Wout François Maria Weghorst,"Borne, Netherlands",8/7/1992,197,FW
+391TUR,Y. Akgün,TUR,Yunus Akgün,"Küçükçekmece, Turkey",7/7/2000,173,FW
+392JOR,Y. Al-Arab,JOR,Yazan Mousa Mahmoud Abu Al-Arab,"Russeifa, Jordan",1/31/1996,185,DF
+393SWE,Y. Ayari,SWE,Yasin Ayari,"Solna, Sweden",10/6/2003,172,MF
+394MAR,Y. Bono,MAR,Yassine Bounou,"Montreal, Canada",4/5/1991,192,GK
+395EGY,Y. Ibrahim,EGY,Yasser Ibrahim Ahmed El Hanafi,"Mansoura, Egypt",2/10/1993,185,DF
+396BEL,Y. Tielemans,BEL,Youri Marion A. Tielemans,"Sint-Pieters-Leeuw, Belgium",5/7/1997,176,MF
+397COD,Y. Wissa,COD,Yoane Wissa,"Épinay-sous-Sénart, France",9/3/1996,176,FW
+398CHE,Z. Amdouni,CHE,Mohamed Zeki Amdouni,"Geneva, Switzerland",12/4/2000,183,FW
+399IRQ,Z. Tahseen,IRQ,Zaid Tahseen Abd Zaid Hantoosh,"Najaf, Iraq",1/29/2001,187,DF

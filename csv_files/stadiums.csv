@@ -1,0 +1,17 @@
+﻿host_city_id,stadium_city,stadium,stadium_capacity,stadium_lat,stadium_long,opened,roof,roof_remarks
+HC01,Atlanta,Mercedes-Benz Stadium,68239,33.76,-84.4,2017,Yes,Retractable (climate-controlled)
+HC02,Foxborough,Gillette Stadium,64146,42.09,-71.26,2002,No,None (open-air)
+HC03,Arlington,AT&T Stadium,70649,32.75,-97.09,2009,Yes,Retractable (climate-controlled)
+HC04,Guadalajara,Estadio Akron,45664,20.68,-103.46,2010,No,None (open-air)
+HC05,Houston,NRG Stadium,68777,29.68,-95.41,2002,Yes,Retractable (climate-controlled)
+HC06,Kansas City,GEHA Field,69045,39.05,-94.48,1972,No,None (open-air)
+HC07,Inglewood,SoFi Stadium,70492,33.95,-118.34,2020,Yes,"Fixed translucent canopy (open sides, no A/C)"
+HC08,Mexico City,Estadio Banorte,80824,19.3,-99.15,1966,No,None (open-air)
+HC09,Miami Gardens,Hard Rock Stadium,64478,25.96,-80.24,1987,Yes,"Fixed canopy (open sides, no A/C)"
+HC10,Guadalupe,Estadio BBVA,51243,25.67,-100.24,2015,No,None (open-air)
+HC11,East Rutherford,MetLife Stadium,80663,40.81,-74.07,2010,No,None (open-air)
+HC12,Philadelphia,Lincoln Financial Field,68324,39.9,-75.17,2003,No,None (open-air)
+HC13,Santa Clara,Levi's Stadium,68827,37.4,-121.97,2014,No,None (open-air)
+HC14,Seattle,Lumen Field,66925,47.6,-122.33,2002,No,"Partial (roof over stands only, open ends)"
+HC15,Toronto,BMO Field,43036,43.63,-79.42,2007,No,None (open-air)
+HC16,Vancouver,BC Place,52497,49.28,-123.11,1983,Yes,Retractable (no A/C)

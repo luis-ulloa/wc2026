@@ -1,0 +1,1249 @@
+﻿player_id,team,short_name,full_name,position,birth_date,age,height_cm
+01ARG,ARG,A. Mac Allister,Alexis Mac Allister,MF,12/24/1998,27,176
+02ARG,ARG,C. Romero,Cristian Gabriel Romero,DF,4/27/1998,28,185
+03ARG,ARG,E. Fernández,Enzo Jeremías Fernández,MF,1/17/2001,25,178
+04ARG,ARG,E. Martínez,Damián Emiliano Martínez,GK,9/2/1992,33,195
+05ARG,ARG,E. Palacios,Exequiel Alejandro Palacios,MF,10/5/1998,27,177
+06ARG,ARG,F. Medina,Facundo Axel Medina,DF,5/28/1999,27,184
+07ARG,ARG,G. Lo Celso,Giovani Lo Celso,MF,4/9/1996,30,177
+08ARG,ARG,G. Montiel,Gonzalo Ariel Montiel,DF,1/1/1997,29,175
+09ARG,ARG,G. Rulli,Geronimo Rulli,GK,5/20/1992,34,189
+10ARG,ARG,G. Simeone,Giuliano Simeone,FW,12/18/2002,23,174
+11ARG,ARG,J. Álvarez,Julián Álvarez,FW,1/31/2000,26,170
+12ARG,ARG,J. López,Jose Manuel Alberto Lopez,FW,12/6/2000,25,190
+13ARG,ARG,J. Musso,Juan Agustín Musso,GK,5/6/1994,32,193
+14ARG,ARG,L. Messi,Lionel Andrés Messi,FW,6/24/1987,39,170
+15ARG,ARG,L. Paredes,Leandro Daniel Paredes,MF,6/29/1994,32,182
+16ARG,ARG,La. Martínez,Lautaro Javier Martínez,FW,8/22/1997,28,175
+17ARG,ARG,Li. Martínez,Lisandro Martínez,DF,1/18/1998,28,175
+18ARG,ARG,M. Senesi,Marcos Nicolás Senesi Baron,DF,5/10/1997,29,185
+19ARG,ARG,N. Gonzalez,Nicolas Ivan Gonzalez,MF,4/6/1998,28,180
+20ARG,ARG,N. Molina,Nahuel Molina Lucero,DF,4/6/1998,28,179
+21ARG,ARG,N. Otamendi,Nicolas Hernan Gonzalo Otamendi,DF,2/12/1988,38,182
+22ARG,ARG,N. Paz,Nicolas Paz Martínez,FW,9/8/2004,21,185
+23ARG,ARG,N. Tagliafico,Nicolás Alejandro Tagliafico,DF,8/31/1992,33,172
+24ARG,ARG,R. De Paul,Rodrigo Javier De Paul,MF,5/24/1994,32,178
+25ARG,ARG,T. Almada,Thiago Ezequiel Almada,FW,4/26/2001,25,171
+26ARG,ARG,V. Barco,Valentin Barco,MF,7/23/2004,22,172
+01AUS,AUS,A. Behich,Aziz Behich,DF,12/16/1990,35,170
+02AUS,AUS,A. Circati,Alessandro Circati,DF,10/10/2003,22,191
+03AUS,AUS,A. Hrustic,Ajdin Hrustic,FW,7/5/1996,30,180
+04AUS,AUS,A. Mabil,Awer Bul Mabil,FW,9/15/1995,30,178
+05AUS,AUS,A. O'Neill,Aiden Connor O'Neill,MF,7/4/1998,28,180
+06AUS,AUS,C. Burgess,Cameron Robert Burgess,DF,10/21/1995,30,194
+07AUS,AUS,C. Devlin,Cameron Peter Devlin,MF,6/7/1998,28,170
+08AUS,AUS,C. Metcalfe,Connor Isaac Metcalfe,MF,11/5/1999,26,183
+09AUS,AUS,C. Volpato,Cristian Volpato,FW,11/15/2003,22,187
+10AUS,AUS,H. Souttar,Harry James Souttar,DF,10/22/1998,27,198
+11AUS,AUS,J. Bos,Jordan Jacob Bos,DF,10/29/2002,23,180
+12AUS,AUS,J. Geria,Jason Kato Geria,DF,5/10/1993,33,181
+13AUS,AUS,J. Irvine,Jackson Alexander Irvine,MF,3/7/1993,33,189
+14AUS,AUS,J. Italiano,Jacob Michael Italiano,DF,7/30/2001,25,177
+15AUS,AUS,K. Trewin,Kai Clifton Trewin,DF,5/18/2001,25,183
+16AUS,AUS,L. Herrington,Lucas Herrington,DF,9/5/2007,18,193
+17AUS,AUS,M. Degenek,Milos Degenek,DF,4/28/1994,32,187
+18AUS,AUS,M. Leckie,Mathew Allan Leckie,FW,2/4/1991,35,181
+19AUS,AUS,M. Ryan,Mathew David Ryan,GK,4/8/1992,34,184
+20AUS,AUS,M. Toure,Mohamed A Toure,FW,3/26/2004,22,186
+21AUS,AUS,N. Irankunda,Nestory Irankunda,FW,2/9/2006,20,165
+22AUS,AUS,N. Velupillay,Nishan Matthew Velupillay,FW,5/7/2001,25,181
+23AUS,AUS,P. Beach,Patrick Thomas Beach,GK,8/6/2003,22,189
+24AUS,AUS,P. Izzo,Paul David Izzo,GK,1/6/1995,31,184
+25AUS,AUS,P. Okon-Engstler,Paul Michael Junior Okon-Engstler,MF,1/24/2005,21,185
+26AUS,AUS,T. Yengi,Tete Owen Yengi,FW,11/28/2000,25,197
+01AUT,AUT,A. Prass,Alexander Prass,MF,5/26/2001,25,180
+02AUT,AUT,A. Schlager,Alexander Schlager,GK,2/1/1996,30,188
+03AUT,AUT,A. Schöpf,Alessandro Andre Schöpf,MF,2/7/1994,32,178
+04AUT,AUT,C. Chukwuemeka,Carney Chibueze Chukwuemeka,MF,10/20/2003,22,187
+05AUT,AUT,D. Affengruber,David Leopold Affengruber,DF,3/19/2001,25,185
+06AUT,AUT,D. Alaba,David Alaba,DF,6/24/1992,34,180
+07AUT,AUT,D. Ljubičić,Dejan Ljubičić,MF,10/8/1997,28,187
+08AUT,AUT,F. Grillitsch,Florian Grillitsch,MF,8/7/1995,30,186
+09AUT,AUT,F. Wiegele,Florian Wiegele,GK,3/21/2001,25,205
+10AUT,AUT,K. Danso,Kevin Danso,DF,9/19/1998,27,190
+11AUT,AUT,K. Laimer,Konrad Laimer,MF,5/27/1997,29,180
+12AUT,AUT,M. Arnautovic,Marko Arnautovic,FW,4/19/1989,37,192
+13AUT,AUT,M. Friedl,Marco Friedl,DF,3/16/1998,28,187
+14AUT,AUT,M. Gregoritsch,Michael Gregoritsch,FW,4/18/1994,32,193
+15AUT,AUT,M. Sabitzer,Marcel Sabitzer,MF,3/17/1994,32,178
+16AUT,AUT,M. Svoboda,Michael Svoboda,DF,10/15/1998,27,195
+17AUT,AUT,N. Seiwald,Nicolas Seiwald,MF,5/4/2001,25,179
+18AUT,AUT,P. Lienhart,Philipp Lienhart,DF,7/11/1996,30,189
+19AUT,AUT,P. Mwene,Phillip Mwene,DF,1/29/1994,32,170
+20AUT,AUT,P. Pentz,Patrick Pentz,GK,1/2/1997,29,183
+21AUT,AUT,P. Wanner,Paul Wanner,MF,12/23/2005,20,185
+22AUT,AUT,P. Wimmer,Patrick Wimmer,FW,5/30/2001,25,182
+23AUT,AUT,R. Schmid,Romano Schmid,MF,1/27/2000,26,168
+24AUT,AUT,S. Kalajdžić,Saša Kalajdžić,FW,7/7/1997,29,200
+25AUT,AUT,S. Posch,Stefan Posch,DF,5/14/1997,29,188
+26AUT,AUT,X. Schlager,Xaver Schlager,MF,9/28/1997,28,174
+01BEL,BEL,A. Onana,Amadou Ba Z Mvom Onana,MF,8/16/2001,24,192
+02BEL,BEL,A. Saelemaekers,Alexis Jesse M Saelemaekers,MF,6/27/1999,27,180
+03BEL,BEL,A. Theate,Arthur Nicolas R Theate,DF,5/25/2000,26,185
+04BEL,BEL,A. Witsel,Axel Laurent A Witsel,MF,1/12/1989,37,186
+05BEL,BEL,B. Mechele,Brandon Erik Mechele,DF,1/28/1993,33,190
+06BEL,BEL,C. De Ketelaere,Charles Marc S De Ketelaere,FW,3/10/2001,25,192
+07BEL,BEL,D. Lukebakio,Dodi Lukebakio Ngandoli,FW,9/24/1997,28,184
+08BEL,BEL,D. Moreira,Diego Manuel J Da Silva Moreira,MF,8/6/2004,21,179
+09BEL,BEL,H. Vanaken,Hans Vanaken,MF,8/24/1992,33,195
+10BEL,BEL,J. Doku,Jeremy Baffour Doku,FW,5/27/2002,24,173
+11BEL,BEL,J. Seys,Joaquin Ronny Seys,DF,3/28/2005,21,178
+12BEL,BEL,K. De Bruyne,Kevin De Bruyne,MF,6/28/1991,35,181
+13BEL,BEL,K. De Winter,Koni De Winter,DF,6/12/2002,24,191
+14BEL,BEL,L. Trossard,Leandro Trossard,FW,12/4/1994,31,172
+15BEL,BEL,M. De Cuyper,Maxim Peter M De Cuyper,DF,12/22/2000,25,182
+16BEL,BEL,M. Fernandez-Pardo,Matias Fernandez-Pardo,FW,2/3/2005,21,188
+17BEL,BEL,M. Penders,Mike Louis Penders,GK,7/31/2005,21,200
+18BEL,BEL,N. Ngoy,Nathan Ngoy,DF,6/10/2003,23,183
+19BEL,BEL,N. Raskin,Nicolas Thierry Y Raskin,MF,2/23/2001,25,178
+20BEL,BEL,R. Lukaku,Romelu Lukaku Bolingoli,FW,5/13/1993,33,190
+21BEL,BEL,S. Lammens,Senne Lammens,GK,7/7/2002,24,193
+22BEL,BEL,T. Castagne,Timothy Castagne,DF,12/5/1995,30,185
+23BEL,BEL,T. Courtois,Thibaut Nicolas M Courtois,GK,5/11/1992,34,199
+24BEL,BEL,T. Meunier,Thomas Andre A Meunier,DF,9/12/1991,34,190
+25BEL,BEL,Y. Tielemans,Youri Marion A Tielemans,MF,5/7/1997,29,176
+26BEL,BEL,Z. Debast,Zeno Koen Debast,DF,10/24/2003,22,189
+01BIH,BIH,A. Dedić,Amar Dedić,DF,8/18/2002,23,180
+02BIH,BIH,A. Gigović,Armin Gigović,MF,4/6/2002,24,187
+03BIH,BIH,A. Hadžiahmetović,Amir Hadžiahmetović,MF,3/8/1997,29,179
+04BIH,BIH,A. Malić,Arjan Malić,DF,8/28/2005,20,188
+05BIH,BIH,A. Memić,Amar Memić,MF,1/20/2001,25,176
+06BIH,BIH,B. Tahirovic,Benjamin Tahirovic,MF,3/3/2003,23,191
+07BIH,BIH,D. Burnić,Dženis Burnić,MF,5/22/1998,28,182
+08BIH,BIH,D. Hadžikadunić,Dennis Hadžikadunić,DF,7/9/1998,28,191
+09BIH,BIH,E. Bajraktarević,Esmir Bajraktarević,FW,3/10/2005,21,175
+10BIH,BIH,E. Demirović,Ermedin Demirović,FW,3/25/1998,28,185
+11BIH,BIH,E. Džeko,Edin Džeko,FW,3/17/1986,40,192
+12BIH,BIH,E. Mahmić,Ermin Mahmić,MF,3/14/2005,21,182
+13BIH,BIH,H. Tabaković,Haris Tabaković,FW,6/20/1994,32,196
+14BIH,BIH,I. Bašić,Ivan Bašić,MF,4/30/2002,24,178
+15BIH,BIH,I. Šunjić,Ivan Šunjić,MF,10/9/1996,29,183
+16BIH,BIH,J. Lukić,Jovo Lukić,FW,11/28/1998,27,190
+17BIH,BIH,K. Alajbegović,Kerim Alajbegović,FW,9/21/2007,18,186
+18BIH,BIH,M. Jurkas,Mladen Jurkas,GK,10/7/2007,18,193
+19BIH,BIH,M. Zlomislić,Martin Zlomislić,GK,8/16/1998,27,189
+20BIH,BIH,N. Katić,Nikola Katić,DF,10/10/1996,29,194
+21BIH,BIH,N. Mujakić,Nihad Mujakić,DF,4/15/1998,28,189
+22BIH,BIH,N. Vasilj,Nikola Vasilj,GK,12/2/1995,30,193
+23BIH,BIH,S. Baždar,Samed Baždar,FW,1/31/2004,22,189
+24BIH,BIH,S. Kolašinac,Sead Kolašinac,DF,6/20/1993,33,183
+25BIH,BIH,S. Radeljić,Stjepan Radeljić,DF,9/5/1997,28,201
+26BIH,BIH,T. Muharemović,Tarik Muharemović,DF,2/28/2003,23,192
+01BRA,BRA,A. Sandro,Alex Sandro Lobo Silva,DF,1/26/1991,35,180
+02BRA,BRA,Álisson,Álisson Ramsés Becker,GK,10/2/1992,33,193
+03BRA,BRA,B. Guimarães,Bruno Guimarães Rodriguez Moura,MF,11/16/1997,28,182
+04BRA,BRA,Bremer,Gleison Bremer Silva Nascimento,DF,3/18/1997,29,188
+05BRA,BRA,Casemiro,Carlos Henrique Casimiro,MF,2/23/1992,34,185
+06BRA,BRA,Da. Santos,Danilo Dos Santos De Oliveira,MF,4/29/2001,25,177
+07BRA,BRA,Danilo,Danilo Luiz Da Silva,DF,7/15/1991,35,184
+08BRA,BRA,D. Santos,Douglas Dos Santos Justino De Melo,DF,3/22/1994,32,173
+09BRA,BRA,É. Silva,Éderson José Dos Santos Lourenço Da Silva,MF,7/7/1999,27,184
+10BRA,BRA,Ederson,Ederson Santana De Moraes,GK,8/17/1993,32,188
+11BRA,BRA,Endrick,Endrick Felipe Moreira De Sousa Pessoa,FW,7/21/2006,20,172
+12BRA,BRA,Fabinho,Fabio Henrique Tavares,MF,10/23/1993,32,188
+13BRA,BRA,G. Magalhães,Gabriel Dos Santos Magalhães,DF,12/19/1997,28,190
+14BRA,BRA,G. Martinelli,Gabriel Teodoro Martinelli Silva,FW,6/18/2001,25,178
+15BRA,BRA,I. Thiago,Igor Thiago Nascimento Rodrigues,FW,6/26/2001,25,190
+16BRA,BRA,L. Henrique,Luiz Henrique André Rosa Da Silva,FW,1/2/2001,25,182
+17BRA,BRA,L. Paquetá,Lucas Tolentino Coelho De Lima,MF,8/27/1997,28,183
+18BRA,BRA,L. Pereira,Leonardo Pereira,DF,1/31/1996,30,189
+19BRA,BRA,M. Cunha,Matheus Santos Carneiro Da Cunha,FW,5/27/1999,27,183
+20BRA,BRA,Marquinhos,Marcos Aoas Correa,DF,5/14/1994,32,183
+21BRA,BRA,Neymar Jr,Neymar Da Silva Santos Júnior,FW,2/5/1992,34,175
+22BRA,BRA,R. Ibañez,Roger Ibañez Da Silva,DF,11/23/1998,27,186
+23BRA,BRA,Raphinha,Raphael Dias Belloli,FW,12/14/1996,29,176
+24BRA,BRA,Rayan,Rayan Vitor Simplicio Rocha,FW,8/3/2006,20,187
+25BRA,BRA,V. Júnior,Vinicius José Paixão De Oliveira Júnior,FW,7/12/2000,26,176
+26BRA,BRA,Weverton,Weverton Pereira Da Silva,GK,12/13/1987,38,189
+01CAN,CAN,A. Ahmed,Ali Ahmed,FW,10/10/2000,25,180
+02CAN,CAN,A. Davies,Alphonso Boyle Davies,DF,11/2/2000,25,183
+03CAN,CAN,A. Johnston,Alistair William Johnston,DF,10/8/1998,27,180
+04CAN,CAN,A. Jones,Alfie Charles Jones,DF,10/7/1997,28,191
+05CAN,CAN,C. Larin,Cyle Christopher Larin,FW,4/17/1995,31,188
+06CAN,CAN,D. Cornelius,Derek Austin Cornelius,DF,11/25/1997,28,186
+07CAN,CAN,D. St. Clair,Dayne Tristan St. Clair,GK,5/9/1997,29,191
+08CAN,CAN,I. Kone,Ismaël Kenneth Jordan Kone,MF,6/16/2002,24,188
+09CAN,CAN,J. David,Jonathan Christian David,FW,1/14/2000,26,175
+10CAN,CAN,J. Nelson,Jayden Nelson,FW,9/26/2002,23,170
+11CAN,CAN,J. Osorio,Jonathan Osorio,MF,6/12/1992,34,175
+12CAN,CAN,J. Shaffelburg,Jacob Everett Shaffelburg,MF,11/26/1999,26,181
+13CAN,CAN,J. Waterman,Joel Robert Waterman,DF,1/24/1996,30,185
+14CAN,CAN,L. De Fougerolles,Luc Rollet De Fougerolles,DF,10/12/2005,20,183
+15CAN,CAN,L. Millar,Liam Alan Millar,MF,9/27/1999,26,176
+16CAN,CAN,M. Bombito,Moïse Bombito Lumpungu,DF,3/30/2000,26,190
+17CAN,CAN,M. Choinière,Mathieu Choinière,MF,2/7/1999,27,173
+18CAN,CAN,M. Crépeau,Maxime Crépeau,GK,5/11/1994,32,185
+19CAN,CAN,N. Saliba,Nathan-Dylan Saliba,MF,2/7/2004,22,174
+20CAN,CAN,N. Sigur,Niko Kristian Sigur,DF,9/9/2003,22,178
+21CAN,CAN,O. Goodman,Owen Olamidayo Goodman,GK,11/27/2003,22,193
+22CAN,CAN,P. David,Promise Oluwatobi Emmanuel David,FW,7/3/2001,25,195
+23CAN,CAN,R. Laryea,Richmond Mamah Laryea,DF,1/7/1995,31,175
+24CAN,CAN,S. Eustáquio,Stephen Eustaquio,MF,12/21/1996,29,175
+25CAN,CAN,T. Buchanan,Tajon Trevor Buchanan,FW,2/8/1999,27,183
+26CAN,CAN,T. Oluwaseyi,Tanitoluwa Oluwatimilehin Oluwaseyi,FW,5/15/2000,26,187
+01CHE,CHE,A. Amenda,Aurèle Florian Amenda,DF,7/31/2003,23,194
+02CHE,CHE,A. Jashari,Ardon Jashari,MF,7/30/2002,24,181
+03CHE,CHE,B. Embolo,Breel Donald Embolo,FW,2/14/1997,29,184
+04CHE,CHE,C. Fassnacht,Christian Andreas Fassnacht,FW,11/11/1993,32,185
+05CHE,CHE,C. Itten,Cedric Jan Itten,FW,12/27/1996,29,190
+06CHE,CHE,D. Ndoye,Dan Ndoye,FW,10/25/2000,25,184
+07CHE,CHE,D. Sow,Mohameth Djibril Ibrahima Sow,MF,2/6/1997,29,183
+08CHE,CHE,D. Zakaria,Denis Lemi Zakaria Lako Lado,MF,11/20/1996,29,189
+09CHE,CHE,E. Cömert,Eray Ervin Cömert,DF,2/4/1998,28,183
+10CHE,CHE,F. Rieder,Fabian Rieder,MF,2/16/2002,24,181
+11CHE,CHE,G. Kobel,Gregor Kobel,GK,12/6/1997,28,196
+12CHE,CHE,G. Xhaka,Granit Xhaka,MF,9/27/1992,33,183
+13CHE,CHE,J. Manzambi,Johan Kula Manzambi,MF,10/14/2005,20,182
+14CHE,CHE,L. Jaquez,Luca Antony Jaquez,DF,6/2/2003,23,187
+15CHE,CHE,M. Aebischer,Michel Aebischer,MF,1/6/1997,29,183
+16CHE,CHE,M. Akanji,Manuel Obafemi Akanji,DF,7/19/1995,31,188
+17CHE,CHE,M. Keller,Marvin Keller,GK,7/3/2002,24,189
+18CHE,CHE,M. Muheim,Miro Max Maria Muheim,DF,3/24/1998,28,182
+19CHE,CHE,N. Elvedi,Nico Elvedi,DF,9/30/1996,29,189
+20CHE,CHE,N. Okafor,Noah Arinzechukwu Okafor,FW,5/24/2000,26,185
+21CHE,CHE,R. Freuler,Remo Marco Freuler,MF,4/15/1992,34,181
+22CHE,CHE,R. Rodriguez,Ricardo Ivan Rodriguez Araya,DF,8/25/1992,33,182
+23CHE,CHE,R. Vargas,Ruben Estephan Vargas Martinez,FW,8/5/1998,27,179
+24CHE,CHE,S. Widmer,Silvan Dominic Widmer,DF,3/5/1993,33,183
+25CHE,CHE,Y. Mvogo,Yvon Landry Mvogo Nganoma,GK,6/6/1994,32,190
+26CHE,CHE,Z. Amdouni,Mohamed Zeki Amdouni,FW,12/4/2000,25,183
+01CIV,CIV,A. Bonny,Ange-Yoan Laurent Bonny,FW,10/25/2003,22,189
+02CIV,CIV,A. Diallo,Amad Diallo,FW,7/11/2002,24,173
+03CIV,CIV,A. Lafont,Alban-Marc Lafont,GK,1/23/1999,27,196
+04CIV,CIV,B. Toure,Bazoumana Toure,FW,3/2/2006,20,178
+05CIV,CIV,C. Operi,Christopher Tea Domoraud Operi,DF,4/29/1997,29,183
+06CIV,CIV,C. Oulai,Christ Ravynel Inao Oulai,MF,4/6/2006,20,173
+07CIV,CIV,E. Agbadou,Badobre Emmanuel Elysee Djedje Agbadou,DF,6/17/1997,29,185
+08CIV,CIV,E. Guessand,Evann Ludovic Vidjannagni Guessand,FW,7/1/2001,25,188
+09CIV,CIV,E. Ndicka,Obite Evan Ndicka,DF,8/20/1999,26,192
+10CIV,CIV,E. Wahi,Sepe Elye Delmas Wahi,FW,1/2/2003,23,181
+11CIV,CIV,F. Kessié,Franck Yannick Kessie,MF,12/19/1996,29,183
+12CIV,CIV,G. Doué,Guela Maho-Lewis Doue,DF,10/17/2002,23,187
+13CIV,CIV,G. Konan,N'clomande Ghislain Konan,DF,12/27/1995,30,176
+14CIV,CIV,I. Sangare,Ibrahim Sangare,MF,12/2/1997,28,191
+15CIV,CIV,J. Seri,Jean Michael Seri,MF,7/19/1991,35,168
+16CIV,CIV,M. Kone,Mohamed Kone,GK,3/7/2002,24,186
+17CIV,CIV,N. Pépé,Nicolas Pepe,FW,5/29/1995,31,183
+18CIV,CIV,O. Diakite,Oumar Diakite,FW,12/20/2003,22,182
+19CIV,CIV,O. Diomande,Ousmane Diomande,DF,12/4/2003,22,190
+20CIV,CIV,O. Kossounou,Kouakou Odilon Dorgeless Kossounou,DF,1/4/2001,25,191
+21CIV,CIV,P. Guiagon,Parfait Guiagon,MF,2/22/2001,25,165
+22CIV,CIV,S. Adingra,Simon Adingra,FW,1/1/2002,24,175
+23CIV,CIV,S. Fofana,Seko Mohamed Fofana,MF,5/7/1995,31,185
+24CIV,CIV,W. Singo,Wilfried Stephane Singo,DF,12/25/2000,25,182
+25CIV,CIV,Y. Diomande,Yan Diomande,FW,11/14/2006,19,180
+26CIV,CIV,Y. Fofana,Yahia Fofana,GK,8/21/2000,25,194
+01COD,COD,A. Masuaku,Arthur Fuka Masuaku Kawela,DF,11/7/1993,32,179
+02COD,COD,A. Tshibola,Tshibola Aaron,MF,1/2/1995,31,184
+03COD,COD,A. Tuanzebe,Axel Tuanzebe,DF,11/14/1997,28,188
+04COD,COD,A. Wan-Bissaka,Wan Bissaka,DF,11/26/1997,28,183
+05COD,COD,B. Cipenga,Kibambe Brian Cipenga,FW,3/11/1998,28,172
+06COD,COD,C. Bakambu,Cedric Bakambu,FW,4/11/1991,35,182
+07COD,COD,C. Mbemba,Mangulu Chancel Mbemba,DF,8/8/1994,31,182
+08COD,COD,C. Pickel,Charles Monginda Pickel,MF,5/15/1997,29,187
+09COD,COD,D. Batubinsika,Dylan Buduka Batubinsika,DF,2/15/1996,30,185
+10COD,COD,E. Kayembe,Edo Kayembe Kayembe,MF,6/3/1998,28,183
+11COD,COD,F. Mayele,Mayele Fiston Kalala,FW,6/24/1994,32,185
+12COD,COD,G. Kakuta,Mambenga Gaël Roméo Kakuta,FW,6/21/1991,35,174
+13COD,COD,G. Kalulu,Gédéon Tchingoma Kyatengwa Kalulu,DF,8/29/1997,28,178
+14COD,COD,J. Kayembe,Joris Kayembe-Ditu,DF,8/8/1994,31,180
+15COD,COD,L. Mpasi,Lionel Nzau Mpasi,GK,8/1/1994,32,182
+16COD,COD,M. Elia,Meschack Lina Elia,FW,8/6/1997,28,173
+17COD,COD,M. Epolo,Matthieu Luka Epolo,GK,1/15/2005,21,183
+18COD,COD,N. Mbuku,Nathanaël Mbuku,MF,3/16/2002,24,170
+19COD,COD,N. Mukau,Ngal’ayel Mukau,MF,11/3/2004,21,186
+20COD,COD,N. Sadiki,Noah Junior Sadiki,MF,12/17/2004,21,165
+21COD,COD,S. Banza,Simon Bokote Banza,FW,8/13/1996,29,189
+22COD,COD,S. Kapuadi,Steve Nkanu Kapuadi,DF,4/30/1998,28,196
+23COD,COD,S. Moutoussamy,Samuel Alain Moutoussamy,MF,8/12/1996,29,176
+24COD,COD,T. Bongonda,Theo Mbulofeko Batombo Bongonda,MF,11/20/1995,30,176
+25COD,COD,T. Fayulu,Timothy Bruce Munzoko Fayulu,GK,7/24/1999,27,192
+26COD,COD,Y. Wissa,Yoane Wissa,FW,9/3/1996,29,176
+01COL,COL,A. Gómez,Carlos Andrés Gómez Hinestroza,FW,9/12/2002,23,170
+02COL,COL,Á. Montero,Álvaro David Montero Perales,GK,3/29/1995,31,201
+03COL,COL,C. Hernández,Juan Camilo Hernandez Suarez,FW,4/20/1999,27,176
+04COL,COL,C. Vargas,Camilo Andres Vargas Gil,GK,3/9/1989,37,183
+05COL,COL,D. Machado,Deiver Machado Mena,DF,9/2/1993,32,173
+06COL,COL,D. Muñoz,Daniel Muñoz Mejia,DF,5/26/1996,30,180
+07COL,COL,D. Ospina,David Ospina Ramírez,GK,8/31/1988,37,183
+08COL,COL,D. Sánchez,Davinson Sánchez Mina,DF,6/12/1996,30,188
+09COL,COL,G. Puerta,Gustavo Adolfo Puerta Molano,DF,7/23/2003,23,173
+10COL,COL,J. Arias,Jhon Adolfo Arias Andrade,MF,9/21/1997,28,168
+11COL,COL,J. Campaz,Jaminton Leandro Campaz,FW,5/24/2000,26,166
+12COL,COL,J. Carrascal,Jorge Andres Carrascal Guardo,MF,5/25/1998,28,180
+13COL,COL,J. Córdoba,Jhon Andrés Córdoba Copete,FW,5/11/1993,33,186
+14COL,COL,J. Lerma,Jefferson Andrés Lerma Solis,MF,10/25/1994,31,180
+15COL,COL,J. Lucumí,Jhon Janer Lucumi Bonilla,DF,6/26/1998,28,187
+16COL,COL,J. Mojica,Johan Andrés Mojica Palacio,DF,8/21/1992,33,184
+17COL,COL,J. Portilla,Juan Camilo Portilla Orozco,MF,9/12/1998,27,181
+18COL,COL,J. Quintero,Juan Fernando Quintero Paniagua,MF,1/18/1993,33,167
+19COL,COL,J. Rodríguez,James David Rodríguez Rubio,MF,7/12/1991,35,181
+20COL,COL,K. Castaño,Kevin Duvan Castaño Gil,MF,9/29/2000,25,179
+21COL,COL,L. Díaz,Luis Fernando Díaz Marulanda,FW,1/13/1997,29,179
+22COL,COL,L. Suárez,Luis Javier Suárez Charris,FW,12/2/1997,28,179
+23COL,COL,R. Ríos,Richard Ríos Montoya,MF,6/2/2000,26,185
+24COL,COL,S. Arias,Santiago Arias Naranjo,DF,1/13/1992,34,177
+25COL,COL,W. Ditta,Willer Emilio Ditta Perez,DF,1/23/1998,28,179
+26COL,COL,Y. Mina,Yerry Fernando Mina Gonzalez,DF,9/23/1994,31,195
+01CPV,CPV,CJ Dos Santos,Carlos Joaquim Antunes Dos Santos,GK,8/24/2000,25,189
+02CPV,CPV,D. Borges,Edilson Alberto Monteiro Sanches Borges,DF,1/17/1995,31,185
+03CPV,CPV,D. Duarte,Deroy D'Encarnação Duarte,MF,7/4/1999,27,177
+04CPV,CPV,D. Livramento,Dailon Rocha Livramento,FW,5/4/2001,25,185
+05CPV,CPV,G. Benchimol,Gilson Benchimol Tavares,FW,12/29/2001,24,187
+06CPV,CPV,G. Rodrigues,Garry Mendes Rodrigues,MF,11/27/1990,35,173
+07CPV,CPV,H. Varela,Hélio Sandro Oliveira Alves Varela,MF,5/3/2002,24,176
+08CPV,CPV,J. Cabral,Jovane Eduardo Borges Cabral,MF,6/14/1998,28,174
+09CPV,CPV,J. Monteiro,Jamiro Gregory Monteiro Alvarenga,MF,11/23/1993,32,175
+10CPV,CPV,J. Paulo,João Paulo Moreira Fernandes,MF,5/26/1998,28,180
+11CPV,CPV,K. Pina,Kevin Lenini Gonçalves Pereira De Pina,MF,1/27/1997,29,177
+12CPV,CPV,K. Pires,Kelvin Spencer Pires,DF,6/5/2000,26,193
+13CPV,CPV,L. Costa,Logan Evans Costa,DF,4/1/2001,25,190
+14CPV,CPV,L. Duarte,Laros Michael D'Encarnação Duarte,MF,2/28/1997,29,180
+15CPV,CPV,M. Rosa,Márcio Salomão Brazão Da Rosa,GK,2/23/1997,29,186
+16CPV,CPV,N. Da Costa,Nuno Miguel Da Costa Joia,MF,2/10/1991,35,182
+17CPV,CPV,P. Lopes,Roberto Carlos Lopes,DF,6/17/1992,34,186
+18CPV,CPV,R. Mendes,Ryan Isaac Da Graca Mendes,FW,1/8/1990,36,178
+19CPV,CPV,S. Lopes Cabral,Sidny Lopes Cabral,DF,9/18/2002,23,176
+20CPV,CPV,S. Moreira,Steven Moreira,DF,8/13/1994,31,178
+21CPV,CPV,Stopira,Ianique Dos Santos Tavares,DF,5/20/1988,38,178
+22CPV,CPV,T. Arcanjo,Telmo Emanuel Gomes Arcanjo,MF,6/21/2001,25,180
+23CPV,CPV,Vozinha,Josimar José Évora Dias,GK,6/3/1986,40,189
+24CPV,CPV,W. Pina,Wagner Fabricio Cardoso De Pina,DF,11/3/2002,23,180
+25CPV,CPV,W. Semedo,Willy Johnson Semedo Afonso,MF,4/27/1994,32,185
+26CPV,CPV,Y. Semedo,Jair Semedo Monteiro,MF,12/29/1995,30,176
+01CUW,CUW,A. Martha,Ar'jany Jainel Archenir Martha,MF,9/4/2003,22,180
+02CUW,CUW,A. Obispo,Armando Maria Obispo,DF,3/5/1999,27,185
+03CUW,CUW,B. Kuwas,Brandley Mack-Olien Kuwas,FW,9/19/1992,33,181
+04CUW,CUW,D. Fonville,Deveron Lenny Fonville,DF,5/16/2003,23,188
+05CUW,CUW,E. Room,Eloy Victor Room,GK,2/6/1989,37,190
+06CUW,CUW,G. Kastaneer,Gervane Zjandric Adonnis Kastaneer,FW,6/9/1996,30,189
+07CUW,CUW,G. Roemeratoe,Godfried Roemeratoe,MF,8/19/1999,26,178
+08CUW,CUW,J. Antonisse,Jeremy Cornelis Jacobus Antonisse,FW,3/29/2002,24,164
+09CUW,CUW,J. Bacuna,Juninho Gracielo Bacuna,MF,8/7/1997,28,178
+10CUW,CUW,J. Brenet,Joshua Benjamin Brenet,DF,3/20/1994,32,181
+11CUW,CUW,J. Gaari,Juriën Godfried Juan Gaari,DF,12/23/1993,32,183
+12CUW,CUW,J. Locadia,Jürgen Leonardo Locadia,FW,11/7/1993,32,193
+13CUW,CUW,J. Margaritha,Jearl Erwin Margaritha,FW,4/10/2000,26,181
+14CUW,CUW,K. Felida,Kevin Antonio Felida,MF,11/11/1999,26,174
+15CUW,CUW,K. Gorré,Kenji Joël Gorré,FW,9/29/1994,31,174
+16CUW,CUW,L. Bacuna,Leandro Jones Johan Bacuna,MF,8/21/1991,34,180
+17CUW,CUW,L. Comenencia,Livano Shyron Liomar Comenencia,MF,2/3/2004,22,185
+18CUW,CUW,M. Hansen,Misjonne Juniffer Naigelino Hansen,FW,5/18/2002,24,176
+19CUW,CUW,R. Bazoer,Riechedly Guillermo Bazoer,DF,10/12/1996,29,184
+20CUW,CUW,R. Van Eijma,Róshón Felix Romar Jordan Van Eijma,DF,6/9/1998,28,186
+21CUW,CUW,S. Floranus,Sherel Constancio Floranus,DF,8/23/1998,27,181
+22CUW,CUW,S. Sambo,Shurandy Ruggerio Sambo,DF,8/19/2001,24,174
+23CUW,CUW,T. Bodak,Tyrick Jeremy Bodak,GK,5/15/2002,24,190
+24CUW,CUW,T. Chong,Tahith Jose Girigorio Djorkaef Chong,MF,12/4/1999,26,185
+25CUW,CUW,T. Doornbusch,Trevor Irving Doornbusch,GK,7/6/1999,27,188
+26CUW,CUW,T. Noslin,Tyrese Yurvencey Noslin,FW,9/11/2002,23,182
+01CZE,CZE,A. Hložek,Adam Hložek,FW,7/25/2002,24,188
+02CZE,CZE,A. Sojka,Alexandr Sojka,MF,4/2/2003,23,188
+03CZE,CZE,D. Douděra,David Douděra,DF,5/31/1998,28,175
+04CZE,CZE,D. Jurásek,David Jurásek,DF,8/7/2000,25,183
+05CZE,CZE,D. Višinský,Denis Višinský,FW,3/21/2003,23,178
+06CZE,CZE,D. Zima,David Zima,DF,11/8/2000,25,190
+07CZE,CZE,H. Sochůrek,Hugo Sochůrek,MF,6/7/2008,18,183
+08CZE,CZE,J. Kuchta,Jan Kuchta,FW,1/8/1997,29,185
+09CZE,CZE,J. Staněk,Jindřich Staněk,GK,4/27/1996,30,192
+10CZE,CZE,J. Zelený,Jaroslav Zelený,DF,8/20/1992,33,190
+11CZE,CZE,L. Červ,Lukáš Červ,MF,4/10/2001,25,182
+12CZE,CZE,L. Horníček,Lukáš Horníček,GK,7/13/2002,24,198
+13CZE,CZE,L. Krejčí,Ladislav Krejčí,DF,4/20/1999,27,191
+14CZE,CZE,L. Provod,Lukáš Provod,MF,10/23/1996,29,191
+15CZE,CZE,M. Chytil,Mojmír Chytil,FW,4/29/1999,27,187
+16CZE,CZE,M. Kovář,Matěj Kovář,GK,5/17/2000,26,196
+17CZE,CZE,M. Sadílek,Michal Sadílek,MF,5/31/1999,27,169
+18CZE,CZE,P. Schick,Patrik Schick,FW,1/24/1996,30,191
+19CZE,CZE,P. Šulc,Pavel Šulc,FW,12/29/2000,25,177
+20CZE,CZE,R. Hranáč,Robin Hranáč,DF,1/29/2000,26,189
+21CZE,CZE,Š. Chaloupek,Štěpán Chaloupek,DF,3/8/2003,23,188
+22CZE,CZE,T. Chorý,Tomáš Chorý,FW,1/26/1995,31,199
+23CZE,CZE,T. Holeš,Tomáš Holeš,DF,3/31/1993,33,180
+24CZE,CZE,T. Souček,Tomáš Souček,MF,2/27/1995,31,192
+25CZE,CZE,V. Coufal,Vladimír Coufal,DF,8/22/1992,33,175
+26CZE,CZE,V. Darida,Vladimír Darida,MF,8/8/1990,35,172
+01DEU,DEU,A. Nübel,Alexander Nübel,GK,9/30/1996,29,193
+02DEU,DEU,A. Ouédraogo,Forzan Assan Ouédraogo,MF,5/9/2006,20,191
+03DEU,DEU,A. Pavlović,Aleksandar Pavlović,MF,5/3/2004,22,188
+04DEU,DEU,A. Rüdiger,Antonio Rüdiger,DF,3/3/1993,33,190
+05DEU,DEU,A. Stiller,Angelo Nicolas Stiller,MF,4/4/2001,25,183
+06DEU,DEU,D. Raum,David Raum,DF,4/22/1998,28,180
+07DEU,DEU,D. Undav,Deniz Undav,FW,7/19/1996,30,179
+08DEU,DEU,F. Nmecha,Felix Kalu Nmecha,MF,10/10/2000,25,190
+09DEU,DEU,F. Wirtz,Florian Richard Wirtz,MF,5/3/2003,23,176
+10DEU,DEU,J. Kimmich,Joshua Walter Kimmich,DF,2/8/1995,31,177
+11DEU,DEU,J. Leweling,Jamie Jaleel Jeremy Leweling,MF,2/26/2001,25,185
+12DEU,DEU,J. Musiala,Jamal Musiala,MF,2/26/2003,23,180
+13DEU,DEU,J. Tah,Jonathan Glao Tah,DF,2/11/1996,30,195
+14DEU,DEU,K. Havertz,Kai Lukas Havertz,FW,6/11/1999,27,190
+15DEU,DEU,L. Goretzka,Leon Christoph Goretzka,MF,2/6/1995,31,189
+16DEU,DEU,L. Sané,Leroy Aziz Sané,MF,1/11/1996,30,183
+17DEU,DEU,M. Beier,Maximilian Beier,FW,10/17/2002,23,185
+18DEU,DEU,M. Neuer,Manuel Peter Neuer,GK,3/27/1986,40,193
+19DEU,DEU,M. Thiaw,Malick Thiaw,DF,8/8/2001,24,194
+20DEU,DEU,N. Amiri,Nadiem Amiri,MF,10/27/1996,29,178
+21DEU,DEU,N. Brown,Nathaniel Christopher Brown,DF,6/16/2003,23,176
+22DEU,DEU,N. Schlotterbeck,Nico Cédric Schlotterbeck,DF,12/1/1999,26,191
+23DEU,DEU,N. Woltemade,Nick Woltemade,FW,2/14/2002,24,198
+24DEU,DEU,O. Baumann,Oliver Baumann,GK,6/2/1990,36,187
+25DEU,DEU,P. Gross,Pascal Alexander Groß,MF,6/15/1991,35,181
+26DEU,DEU,W. Anton,Waldemar Anton,DF,7/20/1996,30,189
+01DZA,DZA,A. Abada,Achref Abada,DF,6/15/1999,27,185
+02DZA,DZA,A. Boulbina,Adil Boulbina,FW,5/2/2003,23,183
+03DZA,DZA,A. Ghouiri,Amine Ferid Ghouiri,FW,2/16/2000,26,180
+04DZA,DZA,A. Hadj Moussa,Anis Hadj Moussa,FW,2/11/2002,24,176
+05DZA,DZA,A. Mandi,Aissa Mandi,DF,10/22/1991,34,184
+06DZA,DZA,F. Chaïbi,Fares Chaibi,MF,11/28/2002,23,183
+07DZA,DZA,F. Ghedjemis,Fares Ghedjemis,FW,9/6/2002,23,183
+08DZA,DZA,H. Aouar,Houssem-Eddine Chaabane Aouar,MF,6/30/1998,28,175
+09DZA,DZA,H. Boudaoui,Hicham Boudaoui,MF,9/23/1999,26,175
+10DZA,DZA,I. Maza,Ibrahim Maza,MF,11/24/2005,20,180
+11DZA,DZA,J. Hadjam,Jaouen Djimmy Hadjam,DF,3/26/2003,23,185
+12DZA,DZA,L. Zidane,Luca Zinedine Zidane,GK,5/13/1998,28,183
+13DZA,DZA,M. Amoura,Mohammed Elamine Amoura,FW,5/9/2000,26,170
+14DZA,DZA,M. Mastil,Melvin Feycal Mastil,GK,2/19/2000,26,194
+15DZA,DZA,M. Tougai,Mohamed Amine Tougai,DF,1/22/2000,26,186
+16DZA,DZA,N. Benbouali,Ahmed Nadhir Benbouali,FW,4/17/2000,26,190
+17DZA,DZA,N. Bentaleb,Nabil Bentaleb,MF,11/24/1994,31,189
+18DZA,DZA,O. Benbot,Oussama Benbot,GK,10/11/1994,31,188
+19DZA,DZA,R. Aït-Nouri,Rayan Aït-Nouri,DF,6/6/2001,25,180
+20DZA,DZA,R. Belghali,Rak Belghali,DF,6/7/2002,24,180
+21DZA,DZA,R. Bensebaini,Amir Selmane Rami Bensebaini,DF,4/16/1995,31,187
+22DZA,DZA,R. Mahrez,Riyad Karim Mahrez,FW,2/21/1991,35,179
+23DZA,DZA,R. Zerrouki,Ramiz Larbi Zerrouki,MF,5/26/1998,28,183
+24DZA,DZA,S. Chergui,Samir Sophian Chergui,DF,2/6/1999,27,185
+25DZA,DZA,Y. Titraoui,Yassine M E G Titraoui,MF,7/26/2003,23,180
+26DZA,DZA,Z. Belaïd,Zineddine Belaïd,DF,3/20/1999,27,186
+01ECU,ECU,A. Franco,Alan Steven Franco Palma,MF,8/21/1998,27,175
+02ECU,ECU,A. Minda,Alan Steve Minda Garcia,MF,5/14/2003,23,174
+03ECU,ECU,Á. Preciado,Ángelo Smit Preciado Quiñonez,DF,2/18/1998,28,174
+04ECU,ECU,A. Valencia,Anthony Lenin Valencia Bajaña,MF,7/21/2003,23,173
+05ECU,ECU,D. Castillo,Denil Daniel Castillo Preciado,MF,3/24/2004,22,189
+06ECU,ECU,E. Valencia,Enner Remberto Valencia Lastra,FW,11/4/1989,36,177
+07ECU,ECU,F. Torres,Félix Eduardo Torres Caicedo,DF,1/11/1997,29,187
+08ECU,ECU,G. Plata,Gonzalo Jordy Plata Jimenez,FW,11/1/2000,25,178
+09ECU,ECU,G. Valle,Gonzalo Roberto Valle Bustamante,GK,2/28/1996,30,186
+10ECU,ECU,H. Galíndez,Hernán Ismael Galíndez,GK,3/30/1987,39,189
+11ECU,ECU,J. Alcívar,Jordy Jose Alcívar Macías,MF,8/5/1999,26,168
+12ECU,ECU,J. Arevalo,Jeremy Alberto Arevalo Mera,FW,3/19/2005,21,182
+13ECU,ECU,J. Caicedo,Jordy Josue Caicedo Medina,FW,11/18/1997,28,186
+14ECU,ECU,J. Ordóñez,Joel Leandro Ordóñez Guerrero,DF,4/21/2004,22,188
+15ECU,ECU,J. Porozo,Jackson Gabriel Porozo Vernaza,DF,8/4/2000,25,192
+16ECU,ECU,J. Yeboah,John Yeboah Zamora,FW,6/23/2000,26,170
+17ECU,ECU,K. Páez,Ray Kendry Paez Andrade,MF,5/4/2007,19,178
+18ECU,ECU,K. Rodríguez,Kevin Jose Rodríguez Cortez,FW,3/4/2000,26,190
+19ECU,ECU,M. Caicedo,Moisés Isaac Caicedo Corozo,MF,11/2/2001,24,178
+20ECU,ECU,M. Ramírez,Wellington Moisés Ramírez Preciado,GK,9/9/2000,25,185
+21ECU,ECU,N. Angulo,Nilson David Angulo Ramirez,FW,6/19/2003,23,184
+22ECU,ECU,P. Estupiñán,Pervis Josue Estupiñán Tenorio,DF,1/21/1998,28,175
+23ECU,ECU,P. Hincapié,Piero Martin Hincapié Reyna,DF,1/9/2002,24,183
+24ECU,ECU,P. Vite,Pedro Jeampierre Vite Uca,MF,3/9/2002,24,172
+25ECU,ECU,W. Pacho,Willian Joel Pacho Tenorio,DF,10/16/2001,24,188
+26ECU,ECU,Y. Medina,Yaimar Abel Medina Ortiz,DF,11/5/2004,21,173
+01EGY,EGY,A. Fatouh,Ahmed Mohamed Aboelfetouh Mohamed,DF,3/22/1998,28,177
+02EGY,EGY,E. Ashour,Emam Ashour Metwaly Abdelghany,MF,2/20/1998,28,180
+03EGY,EGY,H. Abdelkarim,Hamza Mohamed Abdelkarim E Selim,FW,1/1/2008,18,182
+04EGY,EGY,H. Fathy,Hamdy Fathy Abdelhalim Abdelfattah,MF,9/29/1994,31,183
+05EGY,EGY,H. Hassan,Haissem Yousry Fouad A Hassan,FW,2/8/2002,24,175
+06EGY,EGY,H. Abdelmaguid,Hossam Abdelmegeed Abdelsalam Abdelmegeed,DF,4/30/2001,25,193
+07EGY,EGY,I. Adel,Ibrahim Adel Aly Mohamed Hassan,FW,4/23/2001,25,178
+08EGY,EGY,K. Hafez,Karim Hafez Ramadan Seifeldin,DF,3/12/1996,30,174
+09EGY,EGY,M. Abdelmoneim,Mohamed Abdelmoneim Elsayed M Ahmed,DF,2/1/1999,27,184
+10EGY,EGY,M. Alaa,Mohamed Alaaeldin Soliman M Ahmed,GK,1/1/1999,27,188
+11EGY,EGY,M. Attia,Marawan Attia Fahim Ghallab,MF,8/1/1998,28,176
+12EGY,EGY,M. Elshenawy,Mohamed Elsayed Mohamed Elshenawy Gomaa,GK,12/18/1988,37,191
+13EGY,EGY,M. Hany,Mohamed Hany Gamal Eldemerdash,DF,2/2/1996,30,175
+14EGY,EGY,M. Lashin,Mohanad Mostafa Ahmed A Lashin,MF,5/29/1996,30,186
+15EGY,EGY,M. Saber,Mahmoud Saber Abdelmohsen H Abdelmohsen,MF,7/30/2001,25,170
+16EGY,EGY,M. Salah,Mohamed Salah Hamed Mahrous Ghaly,FW,6/15/1992,34,175
+17EGY,EGY,M. Shoubir,Mostafa Ahmed Abdelaziz Mohame Shoubir,GK,5/15/2000,26,195
+18EGY,EGY,M. Soliman,Mahdy Mohamed Soliman Ibrahim,GK,6/8/1987,39,189
+19EGY,EGY,M. Zico,Mostafa Mohamed Zaky Abdelraouf,MF,4/27/1997,29,179
+20EGY,EGY,N. Donga,Nabil Emad Aly Elmahdy Aly,MF,4/6/1996,30,179
+21EGY,EGY,O. Marmoush,Omar Khaled Mohamed Abdelsalam Marmoush,FW,2/7/1999,27,180
+22EGY,EGY,R. Rabia,Ramy Hisham Abdelaziz Moustafa Rabia,DF,5/20/1993,33,183
+23EGY,EGY,T. Alaa,Tarek Alaa Abdelghaffar Abdel Elgebaly,DF,1/5/2002,24,178
+24EGY,EGY,Trézéguet,Mahmoud Ahmed Ibrahim Hassan,FW,10/1/1994,31,181
+25EGY,EGY,Y. Ibrahim,Yasser Ahmed Ibrahim Elhanafy,DF,2/10/1993,33,185
+26EGY,EGY,Zizo,Ahmed Mostafa Mohamed Sayed,FW,1/10/1996,30,175
+01ENG,ENG,A. Gordon,Anthony Michael Gordon,FW,2/24/2001,25,182
+02ENG,ENG,B. Saka,Bukayo Ayoyinka Saka,FW,9/5/2001,24,178
+03ENG,ENG,D. Burn,Daniel Johnson Burn,DF,5/9/1992,34,201
+04ENG,ENG,D. Henderson,Dean Bradley Henderson,GK,3/12/1997,29,188
+05ENG,ENG,D. Rice,Declan Rice,MF,1/14/1999,27,185
+06ENG,ENG,D. Spence,Diop Tehuti Djed-Hotep Spence,DF,8/9/2000,25,184
+07ENG,ENG,E. Anderson,Elliot Junior Anderson,MF,11/6/2002,23,179
+08ENG,ENG,E. Eze,Eberechi Oluchi Eze,MF,6/29/1998,28,178
+09ENG,ENG,E. Konsa,Ezri Ngoyo Konsa,DF,10/23/1997,28,180
+10ENG,ENG,H. Kane,Harry Edward Kane,FW,7/28/1993,33,190
+11ENG,ENG,I. Toney,Ivan Benjamin Elijah Toney,FW,3/16/1996,30,185
+12ENG,ENG,J. Bellingham,Jude Victor William Bellingham,MF,6/29/2003,23,183
+13ENG,ENG,J. Henderson,Jordan Brian Henderson,MF,6/17/1990,36,183
+14ENG,ENG,J. Pickford,Jordan Lee Pickford,GK,3/7/1994,32,185
+15ENG,ENG,J. Quansah,Jarell Amorin Quansah,DF,1/29/2003,23,190
+16ENG,ENG,J. Stones,John Stones,DF,5/28/1994,32,188
+17ENG,ENG,J. Trafford,James Harrington Trafford,GK,10/10/2002,23,197
+18ENG,ENG,K. Mainoo,Kobbie Boateng Mainoo,MF,4/19/2005,21,183
+19ENG,ENG,M. Guéhi,Addji Keaninkin Marc-Isreal Guehi,DF,7/13/2000,26,183
+20ENG,ENG,M. Rashford,Marcus Rashford,FW,10/31/1997,28,180
+21ENG,ENG,M. Rogers,Morgan Elliot Rogers,MF,7/26/2002,24,187
+22ENG,ENG,N. Madueke,Chukwunonso Azuka Tristan Madueke,FW,3/10/2002,24,182
+23ENG,ENG,N. O'Reilly,Nico O'Reilly,DF,3/21/2005,21,177
+24ENG,ENG,O. Watkins,Oliver George Arthur Watkins,FW,12/30/1995,30,180
+25ENG,ENG,R. James,Reece Lewis James,DF,12/8/1999,26,180
+26ENG,ENG,T. Chalobah,Trevoh Tom Chalobah,DF,7/5/1999,27,192
+01ESP,ESP,Á. Baena,Alejandro Baena Rodríguez,MF,7/20/2001,25,172
+02ESP,ESP,A. Grimaldo,Alejandro Grimaldo García,DF,9/20/1995,30,171
+03ESP,ESP,A. Laporte,Aymeric Laporte Fevre,DF,5/27/1994,32,191
+04ESP,ESP,B. Iglesias,Borja Iglesias Quintás,FW,1/17/1993,33,187
+05ESP,ESP,D. Olmo,Daniel Olmo Carvajal,FW,5/7/1998,28,179
+06ESP,ESP,D. Raya,David Raya Martín,GK,9/15/1995,30,186
+07ESP,ESP,E. García,Eric García Martret,DF,1/9/2001,25,183
+08ESP,ESP,F. Ruiz,Fabian Ruiz Peña,MF,4/3/1996,30,188
+09ESP,ESP,F. Torres,Ferran Torres García,FW,2/29/2000,26,183
+10ESP,ESP,Gavi,Pablo Paez Gavira,MF,8/5/2004,21,173
+11ESP,ESP,J. García,Joan Garcia Pons,GK,5/4/2001,25,194
+12ESP,ESP,L. Yamal,Lamine Yamal Nasraoui Ebana,FW,7/13/2007,19,183
+13ESP,ESP,M. Cucurella,Marc Cucurella Saseta,DF,7/22/1998,28,173
+14ESP,ESP,M. Llorente,Marcos Llorente Moreno,DF,1/30/1995,31,183
+15ESP,ESP,M. Merino,Mikel Merino Zazón,MF,6/22/1996,30,188
+16ESP,ESP,M. Oyarzabal,Mikel Oyarzabal Ugarte,FW,4/21/1997,29,181
+17ESP,ESP,M. Pubill,Marc Pubill Pages,DF,6/20/2003,23,191
+18ESP,ESP,M. Zubimendi,Martin Zubimendi Ibañez,MF,2/2/1999,27,181
+19ESP,ESP,N. Williams,Nicholas Williams Arthuer,FW,7/12/2002,24,181
+20ESP,ESP,P. Cubarsí,Pau Cubarsi I Paredes,DF,1/22/2007,19,183
+21ESP,ESP,P. Porro,Pedro Antonio Porro Sauceda,DF,9/13/1999,26,173
+22ESP,ESP,Pedri,Pedro González López,MF,11/25/2002,23,174
+23ESP,ESP,Rodri,Rodrigo Hernández Cascante,MF,6/22/1996,30,190
+24ESP,ESP,U. Simón,Unai Simón Mendibil,GK,6/11/1997,29,190
+25ESP,ESP,V. Muñoz,Victor Muñoz Villanueva,FW,7/13/2003,23,173
+26ESP,ESP,Y. Pino,Yeremy Jesús Pino Santos,FW,10/20/2002,23,174
+01FRA,FRA,A. Rabiot,Adrien Thibault Marie Rabiot,MF,4/3/1995,31,191
+02FRA,FRA,A. Tchouaméni,Aurélien Djani Tchouameni,MF,1/27/2000,26,188
+03FRA,FRA,B. Barcola,Bradley Jean-Manuel Essolisa A Barcola,FW,9/2/2002,23,187
+04FRA,FRA,B. Samba,Brice Lauriche Samba,GK,4/25/1994,32,187
+05FRA,FRA,D. Doué,Désiré Nonka-Maho Doue,FW,6/3/2005,21,182
+06FRA,FRA,D. Upamecano,Dayotchanculle Oswald Upamecano,DF,10/27/1998,27,186
+07FRA,FRA,I. Konaté,Ibrahima Konaté,DF,5/25/1999,27,194
+08FRA,FRA,J. Kounde,Jules Olivier Kounde,DF,11/12/1998,27,178
+09FRA,FRA,J. Mateta,Jean-Philippe Mateta,FW,6/28/1997,29,192
+10FRA,FRA,K. Mbappé,Kylian Mbappe Lottin,FW,12/20/1998,27,180
+11FRA,FRA,L. Digne,Lucas Digne,DF,7/20/1993,33,178
+12FRA,FRA,L. Hernandez,Lucas Francois Bernard Hernandez,DF,2/14/1996,30,184
+13FRA,FRA,M. Akliouche,Maghnes Akliouche,MF,2/25/2002,24,183
+14FRA,FRA,M. Gusto,Malo Arthur Gusto,DF,5/19/2003,23,179
+15FRA,FRA,M. Koné,Kouadio Emmanuel Boris Kone,MF,5/17/2001,25,185
+16FRA,FRA,M. Lacroix,Maxence Guy Lacroix,DF,4/6/2000,26,192
+17FRA,FRA,M. Maignan,Mike Peterson Maignan,GK,7/3/1995,31,191
+18FRA,FRA,M. Olise,Michael Akpovie Olise,FW,12/12/2001,24,184
+19FRA,FRA,M. Thuram,Marcus Lilian Thuram-Ulien,FW,8/6/1997,28,192
+20FRA,FRA,N. Kante,N'golo Kante,MF,3/29/1991,35,171
+21FRA,FRA,O. Dembélé,Masour Ousmane Dembele,FW,5/15/1997,29,179
+22FRA,FRA,R. Cherki,Mathis Rayan Cherki,MF,8/17/2003,22,180
+23FRA,FRA,R. Risser,Robin François Philippe Risser,GK,12/2/2004,21,193
+24FRA,FRA,T. Hernandez,Théo Bernard François Hernandez,DF,10/6/1997,28,184
+25FRA,FRA,W. Saliba,William Alain André Gabriel Saliba,DF,3/24/2001,25,192
+26FRA,FRA,W. Zaïre-Emery,Warren Marie Jean-Pierre Zaïre-Emery,MF,3/8/2006,20,176
+01GHA,GHA,A. Baba,Abdul Rahman Baba,DF,7/2/1994,32,179
+02GHA,GHA,A. Boakye,Augustine Boakye,MF,11/3/2000,25,178
+03GHA,GHA,F. Issahaku,Abdul Fatawu Issahaku,FW,3/8/2004,22,177
+04GHA,GHA,A. Mumin,Abdul Mumin Suleman,DF,6/6/1998,28,188
+05GHA,GHA,A. Seidu,Alidu Seidu,DF,6/4/2000,26,173
+06GHA,GHA,A. Semenyo,Antoine Serlom Semenyo,MF,1/7/2000,26,185
+07GHA,GHA,B. Asare,Benjamin Asare,GK,7/13/1992,34,188
+08GHA,GHA,B. Baah,Christopher Bonsu Baah,FW,12/14/2004,21,172
+09GHA,GHA,B. Thomas-Asante,Solomon Brandon Michael Clarke Thomas-Asante,FW,12/29/1998,27,182
+10GHA,GHA,C. Yirenkyi,Caleb Marfo Yirenkyi,MF,1/15/2006,20,182
+11GHA,GHA,D. Luckassen,Derrick Luckassen,DF,7/3/1995,31,188
+12GHA,GHA,E. Nuamah,Ernest Nuamah Appiah,FW,11/1/2003,22,178
+13GHA,GHA,E. Owusu,Elisha Owusu,MF,11/7/1997,28,182
+14GHA,GHA,G. Mensah,Gideon Mensah,DF,7/18/1998,28,178
+15GHA,GHA,I. Williams,Inaki Williams Arthuer,FW,6/15/1994,32,186
+16GHA,GHA,J. Adjetey,Jonas Adjei Adjetey,DF,12/13/2003,22,188
+17GHA,GHA,J. Anang,Joseph Tetteh Anang,GK,6/8/2000,26,190
+18GHA,GHA,J. Ayew,Jordan Pierre Ayew,FW,9/11/1991,34,182
+19GHA,GHA,J. Opoku,Jerome Opoku,DF,10/14/1998,27,197
+20GHA,GHA,K. Oppong,Kojo Peprah Oppong,DF,6/4/2004,22,185
+21GHA,GHA,K. Sibo,Kwasi Sibo,MF,6/24/1998,28,183
+22GHA,GHA,K. Sulemana,Kamal Deen Sulemana,FW,2/15/2002,24,174
+23GHA,GHA,L. Zigi,Lawrence Ati Zigi,GK,11/29/1996,29,188
+24GHA,GHA,M. Senaya,Marvin Elom Senaya,DF,1/28/2001,25,181
+25GHA,GHA,P. Adu,Prince Kwabena Adu,FW,9/23/2003,22,179
+26GHA,GHA,T. Partey,Thomas Teye Partey,MF,6/13/1993,33,185
+01HRV,HRV,A. Budimir,Ante Budimir,FW,7/22/1991,35,190
+02HRV,HRV,A. Kramarić,Andrej Kramarić,FW,6/19/1991,35,177
+03HRV,HRV,D. Ćaleta-Car,Duje Ćaleta-Car,DF,9/17/1996,29,193
+04HRV,HRV,D. Kotarski,Dominik Kotarski,GK,2/10/2000,26,190
+05HRV,HRV,D. Livaković,Dominik Livaković,GK,1/9/1995,31,188
+06HRV,HRV,I. Matanović,Igor Matanović,FW,3/31/2003,23,194
+07HRV,HRV,I. Pandur,Ivor Pandur,GK,3/25/2000,26,187
+08HRV,HRV,I. Perišić,Ivan Perišić,FW,2/2/1989,37,186
+09HRV,HRV,J. Gvardiol,Joško Gvardiol,DF,1/23/2002,24,185
+10HRV,HRV,J. Stanišić,Josip Stanišić,DF,4/2/2000,26,186
+11HRV,HRV,J. Šutalo,Josip Šutalo,DF,2/28/2000,26,185
+12HRV,HRV,K. Jakić,Kristijan Jakić,DF,5/14/1997,29,181
+13HRV,HRV,L. Modrić,Luka Modrić,MF,9/9/1985,40,172
+14HRV,HRV,L. Sučić,Luka Sučić,MF,9/8/2002,23,185
+15HRV,HRV,L. Vušković,Luka Vušković,DF,2/24/2007,19,193
+16HRV,HRV,M. Baturina,Martin Baturina,MF,2/16/2003,23,172
+17HRV,HRV,M. Erlić,Martin Erlić,DF,1/24/1998,28,192
+18HRV,HRV,M. Kovačić,Mateo Kovačić,MF,5/6/1994,32,178
+19HRV,HRV,M. Pongračić,Marin Pongračić,DF,9/11/1997,28,193
+20HRV,HRV,Ma. Pašalić,Mario Pašalić,MF,2/9/1995,31,188
+21HRV,HRV,Mc. Pašalić,Marco Pašalić,FW,9/14/2000,25,177
+22HRV,HRV,N. Moro,Nikola Moro,MF,3/12/1998,28,183
+23HRV,HRV,N. Vlašić,Nikola Vlašić,MF,10/4/1997,28,179
+24HRV,HRV,P. Musa,Petar Musa,FW,3/4/1998,28,190
+25HRV,HRV,P. Sučić,Petar Sučić,MF,10/25/2003,22,183
+26HRV,HRV,T. Fruk,Toni Fruk,MF,3/9/2001,25,177
+01HTI,HTI,A. Pierre,Alexandre Jr Pierre,GK,2/25/2001,25,190
+02HTI,HTI,C. Arcus,Carlens Jean Fedlaire Ruby Arcus,DF,6/28/1996,30,180
+03HTI,HTI,C. Sainte,Carl Fred Sainte,MF,8/9/2002,23,182
+04HTI,HTI,D. Etienne,Derrick Burckley Etienne Jr,FW,11/25/1996,29,178
+05HTI,HTI,D. Jean Jacques,Danley Jean Jacques,MF,5/20/2000,26,182
+06HTI,HTI,D. Nazon,Duckens Nazon,FW,4/7/1994,32,181
+07HTI,HTI,D. Simon,Dominique Celidor Simon,MF,7/29/2000,26,178
+08HTI,HTI,F. Pierrot,Frantzdy Pierrot,FW,3/29/1995,31,194
+09HTI,HTI,G. Metusala,Garven-Michee Metusala,DF,12/31/1999,26,186
+10HTI,HTI,H. Delcroix,Hannes Piterson D Delcroix,DF,2/28/1999,27,183
+11HTI,HTI,J. Bellegarde,Jean Ricner Bellegarde,MF,6/27/1998,28,170
+12HTI,HTI,J. Casimir,Josue Jeremie Casimir,FW,9/24/2001,24,178
+13HTI,HTI,J. Duverger,Josue Duverger,GK,4/27/2000,26,187
+14HTI,HTI,J. Duverne,Jean-Kévin Duverne,DF,7/12/1997,29,184
+15HTI,HTI,J. Placide,Johny Placide,GK,1/29/1988,38,181
+16HTI,HTI,K. Thermoncy,Keeto Thermoncy,DF,3/29/2006,20,179
+17HTI,HTI,L. Deedson,Don Deedson Louicius,FW,2/11/2001,25,178
+18HTI,HTI,L. Joseph,Lenny Alvin Pico Joseph,FW,10/12/2000,25,182
+19HTI,HTI,M. Experience,Martin Yves Roberns Didier Experience,DF,3/9/1999,27,178
+20HTI,HTI,M. Lacroix,Markhus Lacroix,DF,10/14/1993,32,175
+21HTI,HTI,R. Ade,Ricardo Ade,DF,5/21/1990,36,190
+22HTI,HTI,R. Providence,Ruben Fritzner Providence,FW,7/7/2001,25,178
+23HTI,HTI,W. Isidor,Wilson Isidor,FW,8/27/2000,25,184
+24HTI,HTI,W. Paugain,Wilguens Raphael Polynice Paugain,DF,8/24/2001,24,180
+25HTI,HTI,W. Pierre,Olivier Woodensky Pierre,MF,12/30/2004,21,177
+26HTI,HTI,Y. Fortune,Yassin Enzo Fortune,FW,1/30/1999,27,186
+01IRN,IRN,A. Alipour,Ali Alipourghara,FW,11/11/1995,30,181
+02IRN,IRN,A. Beiranvand,Ali Reza Safarbeiranvand,GK,9/21/1992,33,195
+03IRN,IRN,A. Hosseinzadeh,Amirhossein Hosseinzadehtazehgheshlagh,FW,10/30/2000,25,178
+04IRN,IRN,A. Jahanbakhsh,Alireza Jahanbakhsh Jirandeh,MF,8/11/1993,32,180
+05IRN,IRN,A. Nemati,Ali Nemati,DF,2/8/1996,30,182
+06IRN,IRN,A. Razaghinia,Amirmohammad Razaghinia,MF,4/11/2006,20,187
+07IRN,IRN,A. Yousefi,Arya Yousefi,DF,4/22/2002,24,181
+08IRN,IRN,D. Dargahi,Dennis Dargahi,FW,1/9/1997,29,182
+09IRN,IRN,D. Iri,Danial Iri,DF,10/26/2003,22,182
+10IRN,IRN,E. Hajsafi,Ehsan Haji Safi,DF,2/25/1990,36,178
+11IRN,IRN,H. Hosseini,Seyedhossein Hosseini,GK,6/30/1992,34,189
+12IRN,IRN,H. Kanani,Mohammadhossein Kanani Zadegan,DF,3/23/1994,32,188
+13IRN,IRN,M. Ghayedi,Mehdi Ghayedi,FW,12/5/1998,27,166
+14IRN,IRN,M. Ghorbani,Mohammad Ghorbani,MF,10/7/2001,24,190
+15IRN,IRN,M. Mohammadi,Milad Mohammadikeshmarzi,DF,9/29/1993,32,175
+16IRN,IRN,M. Mohebbi,Mohammad Mohebbi,MF,12/20/1998,27,187
+17IRN,IRN,M. Taremi,Mehdi Taremi,FW,7/18/1992,34,187
+18IRN,IRN,M. Torabi,Mahdi Torabi,MF,9/10/1994,31,185
+19IRN,IRN,P. Niazmand,Seyedpayam Niazmand,GK,4/6/1995,31,193
+20IRN,IRN,R. Cheshmi,Roozbeh Cheshmi,MF,7/24/1993,33,192
+21IRN,IRN,R. Rezaeian,Ramin Rezaeiansemeskandi,DF,3/21/1990,36,184
+22IRN,IRN,S. Ezatolahi,Saeid Ezatolahi Afagh,MF,10/1/1996,29,189
+23IRN,IRN,S. Ghoddos,Seyed Saman Ghoddoos,MF,9/6/1993,32,176
+24IRN,IRN,S. Hardani,Saleh Hardani Kherad,DF,12/26/1998,27,176
+25IRN,IRN,S. Khalilzadeh,Shojae Khalilzadeh,DF,5/14/1989,37,183
+26IRN,IRN,S. Moghanloo,Shahriyar Moghanloo,FW,12/21/1994,31,189
+01IRQ,IRQ,A. Al-Ammari,Amir Fouad Aboud Al-Ammari,MF,7/27/1997,29,180
+02IRQ,IRQ,A. Al-Hamadi,Ali Ibrahim Karim Alzubaidi,FW,3/1/2002,24,187
+03IRQ,IRQ,A. Hashim,Akam Hashim Rahman Rahman,DF,8/16/1998,27,184
+04IRQ,IRQ,A. Hussein,Aymen Hussein Ghadhban Ghadhban,FW,3/22/1996,30,190
+05IRQ,IRQ,A. Jasim,Ali Jasim Elaibi Al-Tameemi,FW,1/20/2004,22,178
+06IRQ,IRQ,A. Sher,Aimar Hazar Anwar Sher,MF,12/20/2002,23,180
+07IRQ,IRQ,A. Yousif,Ali Yousif Hashim Najatee,FW,1/19/1996,30,180
+08IRQ,IRQ,B. Ahmed,Ahmed Basil Fadhil Al-Fadhli,GK,8/19/1996,29,184
+09IRQ,IRQ,F. Putros,Frans Dhia Jirjis Haddad,DF,7/14/1993,33,182
+10IRQ,IRQ,F. Talib,Fahad Talib Raheem Raheem,GK,10/21/1994,31,192
+11IRQ,IRQ,H. Ali,Hussein Haydar Hussein Ali,DF,3/1/2002,24,182
+12IRQ,IRQ,I. Bayesh,Ibrahim Bayesh Kamil Al-Kaabawi,MF,5/1/2000,26,180
+13IRQ,IRQ,J. Hasan,Jalal Hasan Hachim Hachim,GK,5/18/1991,35,188
+14IRQ,IRQ,K. Yakob,Kevin Enkido Yakob William William,MF,10/10/2000,25,180
+15IRQ,IRQ,M. Ahmed,Ahmed Hasan Maknazi Al-Deeshawee,DF,9/24/2001,24,183
+16IRQ,IRQ,M. Ali,Mohanad Ali Kadhim Al-Shammari,FW,6/20/2000,26,183
+17IRQ,IRQ,M. Doski,Merchas Ghazi Salih Salih,DF,12/7/1999,26,173
+18IRQ,IRQ,M. Farji,Marko Jabbar Hussein Hussein,FW,3/16/2004,22,185
+19IRQ,IRQ,M. Saadoon,Mustafa Saadoon Abbood Al-Korji,DF,5/25/2001,25,181
+20IRQ,IRQ,M. Younus,Munaf Younus Hashim Al-Tekreeti,DF,11/16/1996,29,184
+21IRQ,IRQ,Q. Ahmed,Ahmed Ihab Ahmed Ahmed,FW,7/12/2003,23,183
+22IRQ,IRQ,R. Sulaka,Rebin Ghareeb Solaka Adhamat,DF,4/12/1992,34,193
+23IRQ,IRQ,Y. Amyn,Youssef Wali Faeq Amyn,MF,8/21/2003,22,172
+24IRQ,IRQ,Z. Iqbal,Zidane Aamar Iqbal Iqbal,MF,4/27/2003,23,183
+25IRQ,IRQ,Z. Ismael,Zaid Ismael Khaleel Al-Dulaimi,MF,1/3/2002,24,185
+26IRQ,IRQ,Z. Tahseen,Zaid Tahseen Abd Zaid Hantoosh,DF,1/29/2001,25,187
+01JOR,JOR,A. Alfakhori,Abdallah Ra'ed Mahmoud Alfakhori,GK,1/22/2000,26,190
+02JOR,JOR,A. Azaizeh,Ali Ahmad Ali Azaizeh,FW,4/13/2004,22,178
+03JOR,JOR,A. Badawi,Anas Said Ghazi Badawi,DF,9/13/1997,28,174
+04JOR,JOR,A. Jamous,Amer Rasem Adel Jamous,MF,7/3/2002,24,177
+05JOR,JOR,A. Nasib,Abdallah Mousa Musallam Nasib,DF,2/25/1994,32,184
+06JOR,JOR,A. Olwan,Ali Iyad Ali Olwan,FW,3/26/2000,26,182
+07JOR,JOR,E. Haddad,Ehsan Manel Farhan Haddad,DF,2/5/1994,32,174
+08JOR,JOR,H. Abu Dahab,Husam Ali Mohammad Abudahab,DF,5/13/2000,26,186
+09JOR,JOR,I. Sa'Deh,Ibrahim Mohammad Sami Sa'Deh,MF,4/27/2000,26,175
+10JOR,JOR,M. Abu Taha,Mohannad Mahmoud Saleh Abu Taha,MF,2/2/2003,23,173
+11JOR,JOR,M. Abu Zraiq,Mohammad Faisal Yousef Abu Zraiq,FW,12/30/1997,28,170
+12JOR,JOR,M. Abualnadi,Mohammad Majed Jamil Abualnadi,DF,2/8/2001,25,185
+13JOR,JOR,M. Abughoush,Mohammad Ahmed Mohammad Taha,MF,7/13/2005,21,182
+14JOR,JOR,M. Abuhasheesh,Mohammad Ali Hasan Abuhasheesh,DF,5/9/1995,31,179
+15JOR,JOR,M. Aldaoud,Mohammad Ratib Mohammad Aldaoud,MF,4/12/1992,34,185
+16JOR,JOR,M. Almardi,Mahmoud Nayef Ahmad Almardi,FW,10/6/1993,32,173
+17JOR,JOR,M. Al-Tamari,Mousa Mohammad Mousa Suleiman,FW,6/10/1997,29,176
+18JOR,JOR,N. Al Rawabdeh,Noor Al-Deen Mahmoud Ali Al Rawabdeh,MF,2/24/1997,29,182
+19JOR,JOR,N. Al-Rashdan,Nizar Mahmoud Ahmed Al-Rashdan,MF,3/23/1999,27,183
+20JOR,JOR,N. Bani Ateyah,Noureddin Zaid Khaleel Bani Ateyah,GK,1/25/1993,33,179
+21JOR,JOR,O. Fakhoury,Odeh Burhan Shehadeh Fakhoury,FW,11/22/2005,20,180
+22JOR,JOR,R. Ayed,Raja'ei Ayed Fadel Hasan,MF,7/25/1993,33,175
+23JOR,JOR,S. Alrosan,Sa'ed Ahmad Salameh Alrosan,DF,2/1/1997,29,186
+24JOR,JOR,S. Obaid,Saleem Amer Saleem Obaid,DF,1/17/1992,34,187
+25JOR,JOR,Y. Abulaila,Yazeed Mo'ien Hasan Abulaila,GK,1/8/1993,33,188
+26JOR,JOR,Y. Al-Arab,Yazan Mousa Mahmoud Alarab,DF,1/31/1996,30,185
+01JPN,JPN,A. Seko,Ayumu Seko,DF,6/7/2000,26,186
+02JPN,JPN,A. Tanaka,Ao Tanaka,MF,9/10/1998,27,180
+03JPN,JPN,A. Ueda,Ayase Ueda,FW,8/28/1998,27,182
+04JPN,JPN,D. Kamada,Daichi Kamada,MF,8/5/1996,29,180
+05JPN,JPN,D. Maeda,Daizen Maeda,MF,10/20/1997,28,173
+06JPN,JPN,H. Ito,Hiroki Ito,DF,5/12/1999,27,188
+07JPN,JPN,J. Ito,Junya Ito,MF,3/9/1993,33,177
+08JPN,JPN,J. Suzuki,Junnosuke Suzuki,DF,7/12/2003,23,180
+09JPN,JPN,K. Goto,Keisuke Goto,FW,6/3/2005,21,191
+10JPN,JPN,K. Itakura,Kou Itakura,DF,1/27/1997,29,188
+11JPN,JPN,K. Nakamura,Keito Nakamura,MF,7/28/2000,26,180
+12JPN,JPN,K. Ogawa,Koki Ogawa,FW,8/8/1997,28,186
+13JPN,JPN,K. Osako,Keisuke Osako,GK,7/28/1999,27,188
+14JPN,JPN,K. Sano,Kaishu Sano,MF,12/30/2000,25,176
+15JPN,JPN,K. Shiogai,Kento Shiogai,FW,3/26/2005,21,180
+16JPN,JPN,R. Doan,Ritsu Doan,MF,6/16/1998,28,172
+17JPN,JPN,S. Machino,Shuto Machino,FW,9/30/1999,26,185
+18JPN,JPN,S. Taniguchi,Shogo Taniguchi,DF,7/15/1991,35,185
+19JPN,JPN,T. Hayakawa,Tomoki Hayakawa,GK,3/3/1999,27,187
+20JPN,JPN,T. Kubo,Takefusa Kubo,MF,6/4/2001,25,173
+21JPN,JPN,T. Tomiyasu,Takehiro Tomiyasu,DF,11/5/1998,27,187
+22JPN,JPN,T. Watanabe,Tsuyoshi Watanabe,DF,2/5/1997,29,184
+23JPN,JPN,Y. Nagatomo,Yuto Nagatomo,DF,9/12/1986,39,170
+24JPN,JPN,Y. Sugawara,Yukinari Sugawara,DF,6/28/2000,26,179
+25JPN,JPN,Y. Suzuki,Yuito Suzuki,MF,10/25/2001,24,175
+26JPN,JPN,Z. Suzuki,Zion Suzuki,GK,8/21/2002,23,190
+01KOR,KOR,B. Song,Bumkeun Song,GK,10/15/1997,28,196
+02KOR,KOR,D. Lee,Donggyeong Lee,MF,9/20/1997,28,175
+03KOR,KOR,C. Gue-Sung,Guesung Cho,FW,1/25/1998,28,188
+04KOR,KOR,L. Gi-Hyuk,Gihyuk Lee,MF,7/7/2000,26,184
+05KOR,KOR,H. Hwang,Hee Chan Hwang,MF,1/26/1996,30,177
+06KOR,KOR,H. Jo,Hyeonwoo Jo,GK,9/25/1991,34,189
+07KOR,KOR,H. Lee,Hanbeom Lee,DF,6/17/2002,24,188
+08KOR,KOR,O. Hyeon-Gyu,Hyeongyu Oh,FW,4/12/2001,25,183
+09KOR,KOR,H. Son,Heung Min Son,FW,7/8/1992,34,183
+10KOR,KOR,H. Yang,Hyunjun Yang,MF,5/25/2002,24,179
+11KOR,KOR,H. In-Beom,Inbeom Hwang,MF,9/20/1996,29,177
+12KOR,KOR,J. Bae,Junho Bae,MF,8/21/2003,22,180
+13KOR,KOR,J. Castrop,Jens Castrop,DF,7/29/2003,23,178
+14KOR,KOR,J. Eom,Jisung Eom,MF,5/9/2002,24,177
+15KOR,KOR,J. Kim,Jingyu Kim,MF,2/24/1997,29,177
+16KOR,KOR,J. Lee,Jae Sung Lee,MF,8/10/1992,33,180
+17KOR,KOR,J. Park,Jinseob Park,DF,10/23/1995,30,183
+18KOR,KOR,L. Kang-In,Kangin Lee,MF,2/19/2001,25,174
+19KOR,KOR,M. Kim,Moonhwan Kim,DF,8/1/1995,31,173
+20KOR,KOR,M. Kim,Minjae Kim,DF,11/15/1996,29,190
+21KOR,KOR,S. Kim,Seunggyu Kim,GK,9/30/1990,35,187
+22KOR,KOR,P. Seung-Ho,Seungho Paik,MF,3/17/1997,29,182
+23KOR,KOR,T. Kim,Taehyeon Kim,DF,9/17/2000,25,186
+24KOR,KOR,T. Lee,Taeseok Lee,DF,7/28/2002,24,174
+25KOR,KOR,W. Cho,Wije Cho,DF,8/25/2001,24,190
+26KOR,KOR,Y. Seol,Youngwoo Seol,DF,12/5/1998,27,180
+01MAR,MAR,A. Amaimouni,Ayoube Amaimouni,FW,11/30/2004,21,179
+02MAR,MAR,A. Bouaddi,Ayyoub Bouaddi,MF,10/2/2007,18,185
+03MAR,MAR,A. El Kaabi,Ayoub El Kaabi,FW,6/25/1993,33,182
+04MAR,MAR,A. Hakimi,Achraf Hakimi,DF,11/4/1998,27,180
+05MAR,MAR,A. Ounahi,Azz-Eddine Ounahi,MF,4/19/2000,26,182
+06MAR,MAR,A. Salah Eddine,Anass Salah Eddine,DF,1/18/2002,24,181
+07MAR,MAR,A. Sbai,Mohamed Amine Sbai,FW,11/5/2000,25,175
+08MAR,MAR,A. Tagnaouti,Ahmed Reda Tagnaouti,GK,4/5/1996,30,194
+09MAR,MAR,B. Diaz,Brahim Abdelkader Diaz,FW,8/3/1999,27,170
+10MAR,MAR,B. El Khannouss,Bilal El Khannouss,MF,5/10/2004,22,180
+11MAR,MAR,C. Riad,Chadi Riad,DF,6/17/2003,23,186
+12MAR,MAR,C. Talbi,Chemsdine Talbi,MF,5/9/2005,21,175
+13MAR,MAR,G. Yassine,Gessime Ben Youssef Mustapha Yassine,MF,11/22/2005,20,172
+14MAR,MAR,I. Diop,Issa Laye Lucas Jean Diop,DF,1/9/1997,29,194
+15MAR,MAR,I. Saibari,Ismael Saibari,MF,1/28/2001,25,185
+16MAR,MAR,M. El Kajoui,Monir El Kajoui,GK,5/10/1989,37,190
+17MAR,MAR,M. Saadane,Marwane Saadane,DF,1/17/1992,34,185
+18MAR,MAR,N. El Aynaoui,Neil Yoni El Aynaoui,MF,7/2/2001,25,185
+19MAR,MAR,N. Mazraoui,Noussair Mazraoui,DF,11/14/1997,28,183
+20MAR,MAR,R. Halhal,Redouane Halhal,DF,3/5/2003,23,189
+21MAR,MAR,S. Amrabat,Sofyan Amrabat,MF,8/21/1996,29,185
+22MAR,MAR,S. El Mourabet,Samir El Mourabet,MF,10/6/2005,20,187
+23MAR,MAR,S. Rahimi,Sou ane Rahimi,FW,6/2/1996,30,180
+24MAR,MAR,Y. Belammari,Youssef Belammari,DF,9/20/1998,27,175
+25MAR,MAR,Y. Bono,Yassine Bounou,GK,4/5/1991,35,192
+26MAR,MAR,Z. El Ouahdi,Zakaria El Ouahdi,DF,12/31/2001,24,171
+01MEX,MEX,Á. Fidalgo,Álvaro Fidalgo Fernández,MF,4/9/1997,29,175
+02MEX,MEX,A. González,Armando González Alba,FW,4/20/2003,23,182
+03MEX,MEX,A. Vega,Ernesto Alexis Vega Rojas,FW,11/25/1997,28,175
+04MEX,MEX,B. Gutiérrez,Brian Gutiérrez,MF,6/17/2003,23,178
+05MEX,MEX,C. Acevedo,Carlos Acevedo López,GK,4/19/1996,30,185
+06MEX,MEX,C. Huerta,César Saúl Huerta Valera,FW,12/3/2000,25,171
+07MEX,MEX,C. Montes,César Jasib Montes Castro,DF,2/24/1997,29,191
+08MEX,MEX,E. Álvarez,Edson Omar Álvarez Velázquez,DF,10/24/1997,28,180
+09MEX,MEX,E. Lira,Erik Antonio Lira Méndez,MF,5/8/2000,26,172
+10MEX,MEX,G. Martínez,Guillermo Martínez Ayala,FW,3/15/1995,31,191
+11MEX,MEX,G. Mora,Gilberto Rafael Mora Zambrano,MF,10/14/2008,17,175
+12MEX,MEX,G. Ochoa,Francisco Guillermo Ochoa Magaña,GK,7/13/1985,41,185
+13MEX,MEX,I. Reyes,Israel Reyes Romero,DF,5/23/2000,26,181
+14MEX,MEX,J. Gallardo,Jesús Daniel Gallardo Vasconcelos,DF,8/15/1994,31,174
+15MEX,MEX,J. Quiñones,Julián Andrés Quiñones Quiñones,FW,3/24/1997,29,177
+16MEX,MEX,J. Sánchez,Jorge Eduardo Sánchez Ramos,DF,12/10/1997,28,176
+17MEX,MEX,J. Vásquez,Johan Felipe Vásquez Ibarra,DF,10/22/1998,27,182
+18MEX,MEX,L. Chávez,Luis Gerardo Chávez Magallón,MF,1/15/1996,30,178
+19MEX,MEX,L. Romo,Luis Francisco Romo Barrón,MF,6/5/1995,31,183
+20MEX,MEX,M. Chávez,Mateo Chávez García,DF,5/12/2004,22,178
+21MEX,MEX,O. Pineda,Orbelín Pineda Alvarado,MF,3/24/1996,30,169
+22MEX,MEX,O. Vargas,Obed Goméz Vargas,MF,8/5/2005,20,175
+23MEX,MEX,R. Alvarado,Roberto Carlos Alvarado Hernández,FW,9/7/1998,27,176
+24MEX,MEX,R. Jiménez,Raúl Alonso Jiménez Rodríguez,FW,5/5/1991,35,188
+25MEX,MEX,R. Rangel,José Raúl Rangel Aguilar,GK,2/25/2000,26,190
+26MEX,MEX,S. Gimenez,Santiago Tomás Gimenez,FW,4/18/2001,25,180
+01NLD,NLD,B. Brobbey,Brian Ebenezer Adjei Brobbey,FW,2/1/2002,24,181
+02NLD,NLD,B. Verbruggen,Bart Verbruggen,GK,8/18/2002,23,193
+03NLD,NLD,C. Gakpo,Cody Mathès Gakpo,FW,5/7/1999,27,193
+04NLD,NLD,C. Summerville,Crysencio Jilbert Sylverio Cir Summerville,FW,10/30/2001,24,172
+05NLD,NLD,D. Dumfries,Denzel Justus Morris Dumfries,DF,4/18/1996,30,188
+06NLD,NLD,D. Malen,Donyell Malen,FW,1/19/1999,27,178
+07NLD,NLD,F. De Jong,Frenkie De Jong,MF,5/12/1997,29,181
+08NLD,NLD,G. Til,Guus Berend Til,MF,12/22/1997,28,188
+09NLD,NLD,J. Hato,Jorrel Evan Hato,DF,3/7/2006,20,182
+10NLD,NLD,J. Kluivert,Justin Dean Kluivert,MF,5/5/1999,27,173
+11NLD,NLD,J. Van Hecke,Jan-Paul Van Hecke,DF,6/8/2000,26,189
+12NLD,NLD,L. Geertruida,Lutsharel Emiliano Geertruida,DF,7/18/2000,26,185
+13NLD,NLD,M. De Roon,Marten Elco De Roon,MF,3/29/1991,35,186
+14NLD,NLD,M. Depay,Memphis Depay,FW,2/13/1994,32,178
+15NLD,NLD,M. Flekken,Mark Maria Hubertus Flekken,GK,6/13/1993,33,195
+16NLD,NLD,M. Van De Ven,Micky Van De Ven,DF,4/19/2001,25,193
+17NLD,NLD,M. Wieffer,Mats Henrik Berne Wieffer,DF,11/16/1999,26,189
+18NLD,NLD,N. Ake,Nathan Benjamin Ake,DF,2/18/1995,31,180
+19NLD,NLD,N. Lang,Noa Noëll Lang,FW,6/17/1999,27,176
+20NLD,NLD,Q. Timber,Quinten Ryan Crispito Timber,MF,6/17/2001,25,176
+21NLD,NLD,R. Gravenberch,Ryan Jiro Gravenberch,MF,5/16/2002,24,190
+22NLD,NLD,R. Roefs,Robin Gerardus Petrus Roefs,GK,1/17/2003,23,193
+23NLD,NLD,T. Koopmeiners,Teun Koopmeiners,MF,2/28/1998,28,185
+24NLD,NLD,T. Reijnders,Tijjani Martinus Jan Reijnders,MF,7/29/1998,28,178
+25NLD,NLD,V. Van Dijk,Virgil Van Dijk,DF,7/8/1991,35,195
+26NLD,NLD,W. Weghorst,Wout François Maria Weghorst,FW,8/7/1992,33,197
+01NOR,NOR,A. Nusa,Antonio Eromonsele Nordby Nusa,FW,4/17/2005,21,183
+02NOR,NOR,A. Schjelderup,Andreas Rædergård Schjelderup,MF,6/1/2004,22,177
+03NOR,NOR,A. Sørloth,Alexander Sørloth,FW,12/5/1995,30,196
+04NOR,NOR,D. Møller Wolfe,David Møller Wolfe,DF,4/23/2002,24,185
+05NOR,NOR,E. Haaland,Erling Braut Haaland,FW,7/21/2000,26,195
+06NOR,NOR,E. Selvik,Egil Selvik,GK,7/30/1997,29,187
+07NOR,NOR,F. Aursnes,Fredrik Aursnes,MF,12/10/1995,30,181
+08NOR,NOR,F. Bjørkan,Fredrik André Bjørkan,DF,8/21/1998,27,180
+09NOR,NOR,H. Falchener,Henrik Sælebakke Falchener,DF,5/8/2003,23,194
+10NOR,NOR,J. Hauge,Jens Petter Hauge,MF,10/12/1999,26,184
+11NOR,NOR,J. Ryerson,Julian Ryerson,FW,11/17/1997,28,186
+12NOR,NOR,J. Larsen,Jørgen Strand Larsen,FW,2/6/2000,26,193
+13NOR,NOR,K. Ajer,Kristoffer Vassbakk Köpp Ajer,DF,4/17/1998,28,198
+14NOR,NOR,K. Thorstvedt,Kristian Thorstvedt,MF,3/13/1999,27,189
+15NOR,NOR,L. Østigård,Leo Skiri Østigård,DF,11/28/1999,26,183
+16NOR,NOR,M. Ødegaard,Martín Ødegaard,MF,12/17/1998,27,178
+17NOR,NOR,M. Holmgren,Marcus Holmgren Pedersen,DF,7/16/2000,26,184
+18NOR,NOR,M. Thorsby,Morten Thorsby,MF,5/5/1996,30,188
+19NOR,NOR,O. Bobb,Oscar Bobb,MF,7/12/2003,23,177
+20NOR,NOR,Ø. Nyland,Ørjan Haskjold Nyland,GK,9/10/1990,35,192
+21NOR,NOR,P. Berg,Patrick Berg,MF,11/24/1997,28,178
+22NOR,NOR,S. Berge,Sander Gard Bolin Berge,MF,2/14/1998,28,195
+23NOR,NOR,S. Langås,Sondre Klingen Langås,DF,2/2/2001,25,190
+24NOR,NOR,S. Tangvik,Sander Tangvik,GK,11/29/2002,23,193
+25NOR,NOR,T. Aasgaard,Thelonious Gerard Aasgaard,MF,5/2/2002,24,188
+26NOR,NOR,T. Heggem,Torbjørn Lysaker Heggem,DF,1/12/1999,27,192
+01NZL,NZL,A. Paulsen,Alexander Noah Paulsen,GK,7/4/2002,24,193
+02NZL,NZL,A. Rufer,Alex Arthur Rufer,MF,6/12/1996,30,180
+03NZL,NZL,B. Old,Benjamin Craig Old,MF,8/13/2002,23,173
+04NZL,NZL,B. Waine,Benjamin Peter Waine,FW,6/11/2001,25,185
+05NZL,NZL,C. Elliot,Callan Rennie Elliot,DF,7/7/1999,27,177
+06NZL,NZL,C. Mccowatt,Callum William Mccowatt,MF,4/30/1999,27,180
+07NZL,NZL,C. Wood,Christopher Grant Wood,FW,12/7/1991,34,191
+08NZL,NZL,E. Just,Elijah Henry Just,MF,5/1/2000,26,176
+09NZL,NZL,F. De Vries,Francis De Vries,DF,11/28/1994,31,181
+10NZL,NZL,F. Surman,Finn Surman,DF,9/23/2003,22,190
+11NZL,NZL,J. Bell,Joe Zen Robert Bell,MF,4/27/1999,27,182
+12NZL,NZL,J. Randall,Jesse Carmichael Randall,FW,8/19/2002,23,176
+13NZL,NZL,K. Barbarouses,Kosta Barbarouses,FW,2/19/1990,36,171
+14NZL,NZL,L. Bayliss,Lachlan Ryan Bayliss,MF,7/24/2002,24,178
+15NZL,NZL,L. Cacace,Liberato Gianpaolo Cacace,DF,9/27/2000,25,182
+16NZL,NZL,L. Rogerson,Logan Tipene Rogerson,FW,5/28/1998,28,182
+17NZL,NZL,M. Boxall,Michael Joseph Boxall,DF,8/18/1988,37,191
+18NZL,NZL,M. Crocombe,Maxime Teremoana Crocombe,GK,8/12/1993,32,190
+19NZL,NZL,M. Stamenic,Marko Seufatu Nikola Stamenic,MF,2/19/2002,24,188
+20NZL,NZL,M. Woud,Michael Cornelis Woud,GK,1/16/1999,27,196
+21NZL,NZL,N. Pijnaker,Nando Zen Pijnaker,DF,2/25/1999,27,185
+22NZL,NZL,R. Thomas,Ryan Jared Thomas,MF,12/20/1994,31,176
+23NZL,NZL,S. Singh,Sarpreet Singh,MF,2/20/1999,27,180
+24NZL,NZL,T. Bindon,Tyler Grant Bindon,DF,1/27/2005,21,190
+25NZL,NZL,T. Payne,Timothy John Payne,DF,1/10/1994,32,179
+26NZL,NZL,T. Smith,Thomas Jefferson Smith,DF,3/31/1990,36,188
+01PAN,PAN,A. Andrade,Andres Alberto Andrade Cedeño,DF,10/16/1998,27,187
+02PAN,PAN,A. Carrasquilla,Adalberto Eliecer Carrasquilla Alcazar,MF,11/28/1998,27,171
+03PAN,PAN,A. Godoy,Anibal Casis Godoy Lemus,MF,2/10/1990,36,184
+04PAN,PAN,A. Londoño,Azarías Emmanuel Londoño Gonzalez,FW,6/21/2001,25,185
+05PAN,PAN,A. Murillo,Michael Amir Murillo Bermudez,DF,2/11/1996,30,185
+06PAN,PAN,A. Quintero,Alberto Abdiel Quintero Medina,MF,12/18/1987,38,165
+07PAN,PAN,C. Blackman,Cesar Rodolfo Blackman Camarena,DF,4/2/1998,28,174
+08PAN,PAN,C. Harvey,Carlos Miguel Harvey Cesneros,DF,2/3/2000,26,184
+09PAN,PAN,C. Martínez,Cristian Jesus Martinez,MF,2/6/1997,29,170
+10PAN,PAN,C. Samudio,Cesar Jair Samudio Murillo,GK,2/23/1994,32,189
+11PAN,PAN,C. Waterman,Cecilio Alfonso Waterman Ruiz,FW,4/13/1991,35,180
+12PAN,PAN,C. Yanis,Cesar Augusto Yanis Velasco,MF,1/28/1996,30,160
+13PAN,PAN,É. Bárcenas,Edgar Yoel Barcenas Herrera,MF,10/23/1993,32,175
+14PAN,PAN,E. Davis,Eric Javier Davis Grajales,DF,3/31/1991,35,180
+15PAN,PAN,E. Fariña,Edgardo Issac Fariña Wynter,DF,10/19/2001,24,195
+16PAN,PAN,F. Escobar,Fidel Escobar Mendieta,DF,1/9/1995,31,184
+17PAN,PAN,I. Diaz,Ismael Diaz De Leon,MF,5/12/1997,29,184
+18PAN,PAN,J. Cordoba,Jose Angel Cordoba Chambers,DF,6/3/2001,25,189
+19PAN,PAN,J. Fajardo,Jose Fajardo Nelson,FW,8/18/1993,32,184
+20PAN,PAN,J. Gutierrez,Jorge Abdiel Gutierrez Cornejo,DF,9/1/1998,27,171
+21PAN,PAN,J. Ramos,Jiovany Javier Ramos Diaz,DF,1/26/1997,29,188
+22PAN,PAN,JL. Rodriguez,Jose Luis Rodriguez Francis,MF,6/19/1998,28,180
+23PAN,PAN,L. Mejía,Luis Ricardo Mejía Cajar,GK,3/16/1991,35,193
+24PAN,PAN,O. Mosquera,Orlando Mosquera,GK,12/25/1994,31,191
+25PAN,PAN,R. Miller,Roderick Alonso Miller Molina,DF,4/3/1992,34,190
+26PAN,PAN,T. Rodríguez,Tomas Abdiel Rodriguez Mena,FW,3/9/1999,27,183
+01PRT,PRT,B. Fernandes,Bruno Miguel Borges Fernandes,MF,9/8/1994,31,183
+02PRT,PRT,B. Silva,Bernardo Mota Veiga De Carvalho E Silva,MF,8/10/1994,31,173
+03PRT,PRT,C. Ronaldo,Cristiano Ronaldo Dos Santos Aveiro,FW,2/5/1985,41,185
+04PRT,PRT,D. Costa,Diogo Meireles Da Costa,GK,9/19/1999,26,188
+05PRT,PRT,F. Conceição,Francisco Fernandes Da Conceição,FW,12/14/2002,23,166
+06PRT,PRT,F. Trincão,Francisco António Machado Mota De Castro Trincão,FW,12/29/1999,26,184
+07PRT,PRT,G. Guedes,Gonçalo Manuel Ganchinho Guedes,FW,11/29/1996,29,179
+08PRT,PRT,G. Inácio,Gonçalo Bernardo Inácio,DF,8/25/2001,24,185
+09PRT,PRT,G. Ramos,Gonçalo Matias Ramos,FW,6/20/2001,25,185
+10PRT,PRT,J. Cancelo,João Pedro Cavaco Cancelo,DF,5/27/1994,32,173
+11PRT,PRT,J. Dalot,José Diogo Dalot Teixeira,DF,3/18/1999,27,184
+12PRT,PRT,J. Félix,João Félix Sequeira,FW,11/10/1999,26,179
+13PRT,PRT,J. Neves,João Pedro Gonçalves Neves,MF,9/27/2004,21,171
+14PRT,PRT,J. Sá,José Pedro Malheiro De Sá,GK,1/17/1993,33,192
+15PRT,PRT,M. Nunes,Matheus Luiz Nunes,MF,8/27/1998,27,183
+16PRT,PRT,N. Mendes,Nuno Alexandre Tavares Mendes,DF,6/19/2002,24,177
+17PRT,PRT,N. Semedo,Nélson Cabral Semedo,DF,11/16/1993,32,179
+18PRT,PRT,P. Neto,Pedro Lomba Neto,FW,3/9/2000,26,174
+19PRT,PRT,R. Dias,Rúben Dos Santos Gato Alves Dias,DF,5/14/1997,29,187
+20PRT,PRT,R. Leão,Rafael Alexandre Da Conceição Leão,FW,6/10/1999,27,188
+21PRT,PRT,R. Neves,Rúben Diogo Da Silva Neves,MF,3/13/1997,29,183
+22PRT,PRT,R. Silva,Rui Tiago Dantas Da Silva,GK,2/7/1994,32,191
+23PRT,PRT,R. Veiga,Renato Da Palma Veiga,DF,7/29/2003,23,188
+24PRT,PRT,S. Costa,Samuel De Almeida Costa,DF,11/27/2000,25,185
+25PRT,PRT,T. Araújo,Tomás Lemos Araújo,DF,5/16/2002,24,187
+26PRT,PRT,Vitinha,Vitor Machado Ferreira,MF,2/13/2000,26,170
+01PRY,PRY,Á. Arce,Alex Adrian Arce Barrios,FW,6/16/1995,31,188
+02PRY,PRY,A. Cubas,Adrián Andrés Cubas,MF,5/11/1996,30,166
+03PRY,PRY,A. Maidana,Alexandro Maidana Mendieta,DF,7/26/2005,21,173
+04PRY,PRY,A. Romero Gamarra,Alejandro Sebastian Romero Gamarra,FW,1/11/1995,31,165
+05PRY,PRY,A. Sanabria,Arnaldo Antonio Sanabria Ayala,FW,3/4/1996,30,180
+06PRY,PRY,B. Ojeda,Braian Oscar Ojeda Rodriguez,MF,6/27/2000,26,173
+07PRY,PRY,D. Bobadilla,Damián Josue Bobadilla Benitez,MF,7/11/2001,25,180
+08PRY,PRY,D. Gómez,Diego Alexander Gomez Amarilla,MF,3/27/2003,23,183
+09PRY,PRY,F. Balbuena,Fabián Cornelio Balbuena González,DF,8/23/1991,34,188
+10PRY,PRY,G. Avalos,Gabriel Avalos Stumpfs,FW,7/9/1991,35,185
+11PRY,PRY,G. Caballero,Gustavo Ruben Caballero Gonzalez,MF,9/21/2001,24,189
+12PRY,PRY,G. Fernández,Roberto Junior Fernandez Torres,GK,3/29/1988,38,191
+13PRY,PRY,G. Gómez,Gustavo Raul Gómez Portillo,DF,5/6/1993,33,179
+14PRY,PRY,G. Olveira,Gastón Hernán Olveira Echeverria,GK,4/21/1993,33,191
+15PRY,PRY,G. Velázquez,Victor Gustavo Velazquez Ramos,DF,4/17/1991,35,189
+16PRY,PRY,I. Pitta,Isidro Miguel Pitta Saldivar,FW,8/14/1999,26,185
+17PRY,PRY,J. Alonso,Júnior Osmar Ignacio Alonso Mujica,DF,2/9/1993,33,184
+18PRY,PRY,J. Cáceres,Juan Jose Caceres,DF,6/1/2000,26,187
+19PRY,PRY,J. Canale,Jose Maria Canale Dominguez,DF,7/20/1996,30,192
+20PRY,PRY,J. Enciso,Julio Cesar Enciso Espinola,FW,1/23/2004,22,168
+21PRY,PRY,M. Almirón,Miguel Angel Almiron Rejala,MF,2/10/1994,32,178
+22PRY,PRY,M. Galarza,Matias Galarza Fonda,MF,2/11/2002,24,175
+23PRY,PRY,Maurício,Mauricio Magalhaes Prado,MF,6/22/2001,25,175
+24PRY,PRY,O. Alderete,Omar Federico Alderete Fernandez,DF,12/26/1996,29,190
+25PRY,PRY,O. Gill,Orlando Daniel Gill Noldin,GK,6/11/2000,26,190
+26PRY,PRY,R. Sosa,Ramón Sosa Acosta,MF,8/31/1999,26,178
+01QAT,QAT,A. Afif,Akram Hassan A Y Afif,FW,11/18/1996,29,176
+02QAT,QAT,A. Alaaeldin,Ahmed Alaaeldin B M Abdelmotaal,FW,1/31/1993,33,179
+03QAT,QAT,A. Alganehi,Ahmed Mohamed H K Alganehi,MF,9/22/2000,25,175
+04QAT,QAT,A. Alhussein,Alhashmi Alhussein A Mohialdin,DF,8/15/2003,22,182
+05QAT,QAT,A. Ali,Almoez Ali Zainelabdeen M Abdulla,FW,8/19/1996,29,180
+06QAT,QAT,A. Aloui,Ayoub Mohamed Aloui,DF,3/11/2005,21,181
+07QAT,QAT,A. Fathy,Ahmed Fathy M Abdoulla,MF,1/25/1993,33,171
+08QAT,QAT,A. Hatim,Abdelaziz Hatim A Mohamed,MF,1/1/1990,36,179
+09QAT,QAT,A. Madibo,Assim Omer A Madibo,MF,10/22/1996,29,168
+10QAT,QAT,B. Khoukhi,Boualem Khoukhi,DF,7/9/1990,36,185
+11QAT,QAT,E. Junior,Edmilson Junior P Dasilva,FW,8/19/1994,31,180
+12QAT,QAT,H. Ahmed,Homam Elamin M Ahmed,DF,8/25/1999,26,188
+13QAT,QAT,H. Al-Haydos,Hasan Khalid H Alhaydos,FW,12/11/1990,35,174
+14QAT,QAT,I. Laye,Gueye Seydinaissalaye,DF,12/22/1997,28,178
+15QAT,QAT,J. Gaber,Jassem Gaber E Abdulsallam,DF,2/20/2002,24,181
+16QAT,QAT,K. Boudiaf,Karim Boudiaf,MF,9/16/1990,35,190
+17QAT,QAT,L. Mendes,Lucas Michel Mendes,DF,7/3/1990,36,179
+18QAT,QAT,M. Abunada,Mahmoud Ibrahim M Abunada,GK,2/5/2000,26,185
+19QAT,QAT,M. Barsham,Meshaal Aissa M Barsham,GK,2/14/1998,28,180
+20QAT,QAT,M. Manai,Mohamed Naceur Manai,FW,10/25/2002,23,180
+21QAT,QAT,M. Muntari,Mohammed Muntari,FW,12/20/1993,32,192
+22QAT,QAT,P. Miguel,Pedro Miguel D D Correia,DF,8/6/1990,35,180
+23QAT,QAT,S. Al-Brake,Sultan Hussain M H Al-Brake,DF,4/7/1996,30,178
+24QAT,QAT,S. Zakaria,Salah Zakaria M M Hassan,GK,4/24/1999,27,186
+25QAT,QAT,T. Mohammed,Tahsin Mohammad Jamshid,FW,6/16/2006,20,166
+26QAT,QAT,Y. Abdurisag,Yusuf Abdurisag Yusuf,FW,8/6/1999,26,171
+01SAU,SAU,A. Al-Amri,Abdulelah Ali A Alamri,DF,1/15/1997,29,185
+02SAU,SAU,A. Alhajji,Ala Mohsen A Alhajji,MF,12/3/1995,30,178
+03SAU,SAU,A. Alhamddan,Abdullah Abdulrahman A Alhamddan,FW,9/13/1999,26,186
+04SAU,SAU,A. Alkassar,Ahmed Ali H Alkassar,GK,5/8/1991,35,178
+05SAU,SAU,A. Alkhaibari,Abdullah Mohammed H Alkhaibari,MF,8/16/1996,29,175
+06SAU,SAU,A. Lajami,Ali Mohammed A Lajami,DF,4/24/1996,30,177
+07SAU,SAU,A. Majrashi,Ali Hassan M Majrashi,DF,10/2/1999,26,169
+08SAU,SAU,A. Yahya,Aiman Yahya Y Ahmed,FW,5/14/2001,25,173
+09SAU,SAU,F. Al-Brikan,Feras Tariq N Albrikan,FW,5/14/2000,26,185
+10SAU,SAU,H. Al-Tambakti,Hassan Mohammed O Altambakti,DF,2/9/1999,27,183
+11SAU,SAU,H. Kadish,Hassan Kadish Y Mahbub,DF,9/26/1992,33,179
+12SAU,SAU,J. Thikri,Jehad Abdullatif A Thikri,DF,7/21/2001,25,184
+13SAU,SAU,K. Alghannam,Khalid Essa M Alghannam,FW,11/8/2000,25,171
+14SAU,SAU,M. Abu Alshamat,Mohammed Waheeb S Abu Alshamat,DF,8/11/2002,23,170
+15SAU,SAU,M. Alharbi,Moteb Saad S Alharbi,DF,2/20/2000,26,177
+16SAU,SAU,M. Aljuwayr,Musab Fahad Z Aljuwayr,MF,6/20/2003,23,175
+17SAU,SAU,M. Alowais,Mohammed Khalil I Alowais,GK,10/10/1991,34,185
+18SAU,SAU,M. Kanno,Mohamed Ibrahim A Kanno,MF,9/22/1994,31,191
+19SAU,SAU,N. Alaqidi,Nawaf Dhahi F Alaqidi,GK,5/10/2000,26,186
+20SAU,SAU,N. Al-Dawsari,Nasser Essa S Aldawsari,MF,12/19/1998,27,178
+21SAU,SAU,N. Bu Washl,Nawaf Meshari M Bu Washl,DF,9/16/1999,26,173
+22SAU,SAU,S. Abdulhamid,Saud Abdullah S Abdulhamid,DF,7/18/1999,27,172
+23SAU,SAU,S. Al-Dawsari,Salem Mohammed S Aldawsari,FW,8/19/1991,34,173
+24SAU,SAU,S. Alshehri,Saleh Khalid M Alshehri,FW,11/1/1993,32,184
+25SAU,SAU,S. Mandash,Sultan Ahmed M Mandash,FW,10/17/1994,31,172
+26SAU,SAU,Z. Aljohani,Ziyad Mubarak E Aljohani,MF,11/11/2001,24,180
+01SCO,SCO,A. Gunn,Angus Fraser James Gunn,GK,1/22/1996,30,196
+02SCO,SCO,A. Hickey,Aaron Buchanan Hickey,DF,6/10/2002,24,185
+03SCO,SCO,A. Ralston,Anthony Ralston,DF,11/16/1998,27,178
+04SCO,SCO,A. Robertson,Andrew Henry Robertson,DF,3/11/1994,32,178
+05SCO,SCO,B. Gannon-Doak,Ben Gannon Doak,FW,11/11/2005,20,173
+06SCO,SCO,C. Adams,Che Sac Everton Fred Adams,FW,7/13/1996,30,175
+07SCO,SCO,C. Gordon,Craig Sinclair Gordon,GK,12/31/1982,43,193
+08SCO,SCO,D. Hyam,Dominic John Hyam,DF,12/20/1995,30,188
+09SCO,SCO,F. Curtis,Findlay Kenneth Curtis,FW,6/9/2006,20,180
+10SCO,SCO,G. Hanley,Grant Campbell Hanley,DF,11/20/1991,34,188
+11SCO,SCO,G. Hirst,George David Eric Hirst,FW,2/15/1999,27,191
+12SCO,SCO,J. Hendry,Jack William Hendry,DF,5/7/1995,31,192
+13SCO,SCO,J. Mcginn,John Mcginn,MF,10/18/1994,31,178
+14SCO,SCO,J. Souttar,John Francis Souttar,DF,9/25/1996,29,186
+15SCO,SCO,K. Mclean,Kenneth Mclean,MF,1/8/1992,34,183
+16SCO,SCO,K. Tierney,Kieran Tierney,DF,6/5/1997,29,180
+17SCO,SCO,L. Dykes,Lyndon John Dykes,FW,10/7/1995,30,188
+18SCO,SCO,L. Ferguson,Lewis Ferguson,MF,8/24/1999,26,181
+19SCO,SCO,L. Kelly,Liam Patrick Kelly,GK,1/23/1996,30,184
+20SCO,SCO,L. Shankland,Lawrence Shankland,FW,8/10/1995,30,185
+21SCO,SCO,N. Patterson,Nathan Kenneth Patterson,DF,10/16/2001,24,183
+22SCO,SCO,R. Christie,Ryan Christie,MF,2/22/1995,31,178
+23SCO,SCO,R. Stewart,Ross Cameron Stewart,FW,7/11/1996,30,188
+24SCO,SCO,S. Mckenna,Scott Fraser Mckenna,DF,11/12/1996,29,189
+25SCO,SCO,S. Mctominay,Scott Francis Mctominay,MF,12/8/1996,29,193
+26SCO,SCO,T. Fletcher,Tyler Robert Fletcher,MF,3/19/2007,19,183
+01SEN,SEN,A. Diao,Assane Diao,FW,9/7/2005,20,185
+02SEN,SEN,A. Mendy,Antoine Alpha Mendy,DF,5/27/2004,22,187
+03SEN,SEN,A. Seck,Abdoulaye Seck,DF,6/4/1992,34,192
+04SEN,SEN,B. Dieng,Cheikh Ahmadou Bamba Mbacke Dieng,FW,3/23/2000,26,178
+05SEN,SEN,BS. Ndiaye,Bara Sapoko Ndiaye,MF,12/31/2007,18,180
+06SEN,SEN,C. Ndiaye,Pape Cherif Ndiaye,FW,1/23/1996,30,190
+07SEN,SEN,E. Diouf,El Hadji Malick Diouf,DF,12/29/2004,21,177
+08SEN,SEN,E. Mendy,Edouard Osoque Mendy,GK,3/1/1992,34,194
+09SEN,SEN,H. Diarra,Mouhamadou Habib Mbacke Diarra,MF,1/3/2004,22,178
+10SEN,SEN,I. Gueye,Idrissa Gana Gueye,MF,9/26/1989,36,174
+11SEN,SEN,I. Jakobs,Ismail Joshua Jakobs,DF,8/17/1999,26,184
+12SEN,SEN,I. Mbaye,Ibrahim Mbaye,FW,1/24/2008,18,175
+13SEN,SEN,I. Ndiaye,Iliman Cheikh Baroy Ndiaye,FW,3/6/2000,26,180
+14SEN,SEN,I. Sarr,Ismaila Sarr,FW,2/25/1998,28,185
+15SEN,SEN,K. Diatta,Krepin Diatta,DF,2/25/1999,27,173
+16SEN,SEN,K. Koulibaly,Kalidou Koulibaly,DF,6/20/1991,35,186
+17SEN,SEN,L. Camara,Lamine Camara,MF,1/1/2004,22,174
+18SEN,SEN,M. Diaw,Mory Diaw,GK,6/22/1993,33,197
+19SEN,SEN,M. Niakhate,Moussa Niakhate,DF,3/8/1996,30,190
+20SEN,SEN,M. Sarr,Mamadou Sarr,DF,8/29/2005,20,194
+21SEN,SEN,N. Jackson,Nicolas Jackson,FW,6/20/2001,25,187
+22SEN,SEN,P. Ciss,Ismaila Pathe Ciss,MF,3/16/1994,32,186
+23SEN,SEN,P. Gueye,Pape Alassane Gueye,MF,1/24/1999,27,189
+24SEN,SEN,P. Sarr,Pape Matar Sarr,MF,9/14/2002,23,185
+25SEN,SEN,S. Mane,Sadio Mane,FW,4/10/1992,34,175
+26SEN,SEN,Y. Diouf,Yehvann Djibril Victor Diouf,GK,11/16/1999,26,188
+01SWE,SWE, V. Johansson,Tobias Viktor Johansson,GK,9/14/1998,27,187
+02SWE,SWE,A. Bernhardsson,Alexander Olof Bernhardsson,DF,9/8/1998,27,184
+03SWE,SWE,A. Elanga,Anthony David Junior Elanga,FW,4/27/2002,24,178
+04SWE,SWE,A. Isak,Alexander Isak,FW,9/21/1999,26,190
+05SWE,SWE,B. Nygren,Erik Benjamin Nygren,MF,7/8/2001,25,187
+06SWE,SWE,B. Zeneli,Besfort Zeneli,MF,11/21/2002,23,187
+07SWE,SWE,C. Starfelt,Carl Anders Theodor Starfelt,DF,6/1/1995,31,185
+08SWE,SWE,D. Svensson,Daniel Jonathan Svensson,DF,2/12/2002,24,183
+09SWE,SWE,E. Smith,Eric Anders Smith,DF,1/8/1997,29,192
+10SWE,SWE,E. Stroud,Elliot Karl Stroud,DF,6/22/2002,24,185
+11SWE,SWE,G. Gudmundsson,Gabriel Johan Gudmundsson,DF,4/29/1999,27,181
+12SWE,SWE,G. Lagerbielke,Gustaf Johan Lagerbielke,DF,4/10/2000,26,193
+13SWE,SWE,G. Nilsson,Håkan Gustaf Nilsson,FW,5/23/1997,29,197
+14SWE,SWE,H. Ekdal,Hjalmar Ekdal,DF,10/21/1998,27,187
+15SWE,SWE,H. Johansson,Herman Nils Johansson,DF,10/16/1997,28,190
+16SWE,SWE,I. Hien,Isak Malcolm Kwaku Hien,DF,1/13/1999,27,191
+17SWE,SWE,J. Karlström,Jesper Kewe Karlström,MF,6/21/1995,31,182
+18SWE,SWE,J. Widell Zetterström,Jacob Mikael Widell Zetterström,GK,7/11/1998,28,197
+19SWE,SWE,K. Nordfeldt,Bo Kristoffer Nordfeldt,GK,6/23/1989,37,190
+20SWE,SWE,K. Sema,Ken Sema,MF,9/30/1993,32,180
+21SWE,SWE,L. Bergvall,Lucas Erik Holger Bergvall,MF,2/2/2006,20,187
+22SWE,SWE,M. Svanberg,Mattias Olof Svanberg,MF,1/5/1999,27,186
+23SWE,SWE,T. Ali,Taha Abdi Ali,FW,7/1/1998,28,174
+24SWE,SWE,V. Gyökeres,Viktor Einar Gyökeres,FW,6/4/1998,28,189
+25SWE,SWE,V. Lindelöf,Victor Jörgen Nilsson Lindelöf,DF,7/17/1994,32,187
+26SWE,SWE,Y. Ayari,Yasin Ayari,MF,10/6/2003,22,172
+01TUN,TUN,A. Abdi,Ali Elabdi,DF,12/20/1993,32,177
+02TUN,TUN,A. Arous,Adam Arous,DF,7/17/2004,22,188
+03TUN,TUN,A. Dahmen,Aymen Dahmen,GK,1/28/1997,29,188
+04TUN,TUN,A. Slimane,Anis Ben Slimane,MF,3/16/2001,25,188
+05TUN,TUN,D. Bronn,Dylan Daniel Mahmoud Bronn,DF,6/19/1995,31,186
+06TUN,TUN,E. Achouri,Mohamed Elyes Achouri,FW,2/10/1999,27,187
+07TUN,TUN,E. Saad,Elias Saad,FW,12/27/1999,26,185
+08TUN,TUN,E. Skhiri,Ellyes Joris Skhiri,MF,5/10/1995,31,185
+09TUN,TUN,F. Chaouat,Firas Chaouat,FW,5/8/1996,30,185
+10TUN,TUN,H. Mastouri,Hazem Mastouri,FW,6/18/1997,29,191
+11TUN,TUN,H. Mejbri,Hannibal Mejbri,MF,1/21/2003,23,177
+12TUN,TUN,I. Gharbi,Ismael Seifallah Gharbi,MF,4/10/2004,22,180
+13TUN,TUN,K. Ayari,Khalil Ayari,MF,2/2/2005,21,174
+14TUN,TUN,M. Ben Hmida,Mohamed Amine Ben Hmida,DF,12/15/1995,30,181
+15TUN,TUN,M. Ben Ouanes,Ahmed Mortadha Ben Ouanes,DF,7/2/1994,32,188
+16TUN,TUN,M. Chamakh,Abdelmouhib Chamakh,GK,8/25/2001,24,189
+17TUN,TUN,M. Hadj Mahmoud,Mohamed Belhadj Mahmoud,MF,4/24/2000,26,179
+18TUN,TUN,M. Neffati,Moutaz Neffati,DF,9/4/2004,21,182
+19TUN,TUN,M. Talbi,Montassar Omar Talbi,DF,5/26/1998,28,190
+20TUN,TUN,O. Rekik,Omar Rekik,DF,12/20/2001,24,188
+21TUN,TUN,R. Chikhaoui,Raed Chikhaoui,DF,6/9/2004,22,191
+22TUN,TUN,R. Elloumi,Rayan Elloumi,FW,9/17/2007,18,180
+23TUN,TUN,R. Khedira,Rani Khedira,MF,1/27/1994,32,188
+24TUN,TUN,S. Ben Hessen,Sabri Ben Hsan,GK,6/13/1996,30,189
+25TUN,TUN,S. Tounekti,Sebastian Tounekti,MF,7/13/2002,24,182
+26TUN,TUN,Y. Valery,Yan Valery,DF,2/22/1999,27,181
+01TUR,TUR,A. Bardakci,Abdülkerİm Bardakci,DF,9/7/1994,31,185
+02TUR,TUR,A. Bayindir,Altay Bayindir,GK,4/14/1998,28,198
+03TUR,TUR,A. Güler,Arda Güler,FW,2/25/2005,21,175
+04TUR,TUR,B. Yilmaz,Barış Alper Yilmaz,FW,5/23/2000,26,186
+05TUR,TUR,Ç. Söyüncü,Çağlar Söyüncü,DF,5/23/1996,30,185
+06TUR,TUR,C. Uzun,Can Yılmaz Uzun,FW,11/11/2005,20,186
+07TUR,TUR,D. Gül,Deniz Daniel Gül,FW,7/2/2004,22,192
+08TUR,TUR,E. Elmali,Evren Eren Elmali,DF,7/7/2000,26,181
+09TUR,TUR,F. Kadioğlu,Ferdi Erenay Kadioğlu,DF,10/7/1999,26,174
+10TUR,TUR,H. Çalhanoğlu,Hakan Çalhanoğlu,MF,2/8/1994,32,178
+11TUR,TUR,İ. Kahveci,İrfan Kahveci,FW,7/15/1995,31,180
+12TUR,TUR,İ. Yüksek,İsmaİl Yüksek,MF,1/26/1999,27,183
+13TUR,TUR,K. Aktürkoğlu,Muhammed Kerem Aktürkoğlu,FW,10/21/1998,27,172
+14TUR,TUR,K. Ayhan,Kaan Ayhan,MF,11/10/1994,31,185
+15TUR,TUR,K. Yildiz,Kenan Yildiz,FW,5/4/2005,21,187
+16TUR,TUR,M. Demiral,Merih Demiral,DF,3/5/1998,28,190
+17TUR,TUR,M. Günok,Fehmi Mert Günok,GK,3/1/1989,37,196
+18TUR,TUR,M. Müldür,Mert Müldür,DF,4/3/1999,27,184
+19TUR,TUR,O. Aydin,Oğuz Aydin,FW,10/27/2000,25,183
+20TUR,TUR,O. Kabak,Ozan Muhammed Kabak,DF,3/25/2000,26,187
+21TUR,TUR,O. Kökçü,Orkun Kökçü,MF,12/29/2000,25,175
+22TUR,TUR,S. Akaydin,Samet Akaydin,DF,3/13/1994,32,190
+23TUR,TUR,S. Özcan,Salih Özcan,MF,1/11/1998,28,182
+24TUR,TUR,U. Çakir,Uğurcan Çakir,GK,4/5/1996,30,191
+25TUR,TUR,Y. Akgün,Yunus Akgün,FW,7/7/2000,26,173
+26TUR,TUR,Z. Çelik,Mehmet Zeki Çelik,DF,2/17/1997,29,180
+01URY,URY,A. Canobbio,Agustin Canobbio,MF,10/1/1998,27,176
+02URY,URY,B. Rodríguez,Paul Brian Rodríguez Bravo,FW,5/20/2000,26,175
+03URY,URY,N. de la Cruz,Diego Nicolás De La Cruz Arcosa,MF,6/1/1997,29,167
+04URY,URY,D. Nuñez,Darwin Gabriel Nuñez Ribeiro,FW,6/24/1999,27,185
+05URY,URY,E. Martínez,Emiliano Martínez Toranza,MF,8/17/1999,26,184
+06URY,URY,F. Muslera,Nestor Fernando Muslera Micol,GK,6/16/1986,40,190
+07URY,URY,F. Pellistri,Facundo Pellistri Rebollo,FW,12/20/2001,24,174
+08URY,URY,F. Valverde,Federico Santiago Valverde Dipetta,MF,7/22/1998,28,182
+09URY,URY,F. Viñas,Federico Sebastian Viñas Barboza,FW,6/30/1998,28,181
+10URY,URY,G. De Arrascaeta,Giorgian Daniel De Arrascaeta Benedetti,MF,6/1/1994,32,177
+11URY,URY,G. Varela,Guillermo Varela Olivera,DF,3/24/1993,33,174
+12URY,URY,J. Piquerez,Joaquin Piquerez Moreira,MF,8/24/1998,27,185
+13URY,URY,JM. Giménez,José María Giménez De Vargas,DF,1/20/1995,31,186
+14URY,URY,J. Sanabria,Juan Manuel Sanabria Magolé,MF,3/29/2000,26,170
+15URY,URY,M. Araújo,Maximiliano Javier Araújo Vilches,MF,2/15/2000,26,176
+16URY,URY,M. Olivera,Mathías Olivera Miramontes,DF,10/31/1997,28,174
+17URY,URY,M. Ugarte,Manuel Ugarte Ribeiro,MF,4/11/2001,25,182
+18URY,URY,M. Viña,Matías Nicolas Viña Susperreguy,DF,11/9/1997,28,180
+19URY,URY,R. Aguirre,Rodrigo Sebastian Aguirre Soto,FW,10/1/1994,31,182
+20URY,URY,R. Araújo,Ronald Federico Araújo Da Silva,DF,3/7/1999,27,185
+21URY,URY,R. Bentancur,Rodrigo Bentancur Colmán,MF,6/25/1997,29,187
+22URY,URY,R. Zalazar,Radrigo Zalazar Martinez,MF,8/12/1999,26,175
+23URY,URY,S. Bueno,Santiago Ignacio Bueno Sciutto,DF,11/9/1998,27,191
+24URY,URY,S. Cáceres,Sebastián Enzo Cáceres Ramos,DF,8/18/1999,26,180
+25URY,URY,S. Mele,Santiago Andres Mele Castañero,GK,9/6/1997,28,185
+26URY,URY,S. Rochet,Sergio Ramón Rochet Alvarez,GK,3/23/1993,33,189
+01USA,USA,A. Freeman,Alexander Michael Freeman,DF,8/9/2004,21,188
+02USA,USA,A. Robinson,Antonee Robinson,DF,8/8/1997,28,183
+03USA,USA,A. Trusty,Auston Levi-Jesaiah Trusty,DF,8/12/1998,27,190
+04USA,USA,A. Zendejas,Alejandro Zendejas Saavedra,FW,2/7/1998,28,167
+05USA,USA,B. Aaronson,Brenden Russell Aaronson,FW,10/22/2000,25,177
+06USA,USA,C. Brady,Christopher Keith Brady,GK,3/3/2004,22,193
+07USA,USA,C. Pulisic,Christian Mate Pulisic,FW,9/18/1998,27,177
+08USA,USA,C. Richards,Christopher Jeffrey Richards,DF,3/28/2000,26,189
+09USA,USA,C. Roldan,Cristian Roldan,MF,6/3/1995,31,173
+10USA,USA,F. Balogun,Folarin Jolaoluwa Balogun,FW,7/3/2001,25,179
+11USA,USA,G. Reyna,Giovanni Alejandro Reyna,MF,11/13/2002,23,187
+12USA,USA,H. Wright,Haji Amir Wright,FW,3/27/1998,28,191
+13USA,USA,J. Scally,Joseph Michael Scally,DF,12/31/2002,23,184
+14USA,USA,M. Arfsten,Maximilian Michael Arfsten,DF,4/19/2001,25,185
+15USA,USA,M. Freese,Matthew Andrew Geary Freese,GK,9/2/1998,27,198
+16USA,USA,M. Mckenzie,Mark Alexander Mckenzie,DF,2/25/1999,27,186
+17USA,USA,M. Robinson,Miles Gordon Robinson,DF,3/14/1997,29,187
+18USA,USA,M. Tillman,Malik Leon Tillman,MF,5/28/2002,24,187
+19USA,USA,M. Turner,Matthew Charles Turner,GK,6/24/1994,32,190
+20USA,USA,R. Pepi,Ricardo Daniel Pepi,FW,1/9/2003,23,185
+21USA,USA,S. Berhalter,Sebastian Matthew Berhalter,MF,5/10/2001,25,175
+22USA,USA,S. Dest,Sergiño Gianni Dest,DF,11/3/2000,25,173
+23USA,USA,T. Adams,Tyler Shaan Adams,MF,2/14/1999,27,175
+24USA,USA,T. Ream,Timothy Michael Ream,DF,10/5/1987,38,186
+25USA,USA,T. Weah,Timothy Tarpeh Weah,FW,2/22/2000,26,183
+26USA,USA,W. McKennie,Weston James Earl Mc Kennie,MF,8/28/1998,27,180
+01UZB,UZB,A. Abdullaev,Abdulla Abdullaev,DF,9/1/1997,28,181
+02UZB,UZB,A. Amonov,Azizbek Amonov,FW,10/30/1997,28,181
+03UZB,UZB,A. Fayzullaev,Abbosbek Fayzullaev,MF,10/3/2003,22,167
+04UZB,UZB,A. Ganiev,Azizjon Ganiev,MF,2/22/1998,28,178
+05UZB,UZB,A. Khusanov,Abdukodir Khusanov,DF,2/29/2004,22,186
+06UZB,UZB,A. Mozgovoy,Akmal Mozgovoy,MF,4/2/1999,27,180
+07UZB,UZB,A. Nematov,Abduvakhid Nematov,GK,3/20/2001,25,182
+08UZB,UZB,A. Ulmasaliyev,Avazbek Ulmasaliyev,DF,3/27/2000,26,187
+09UZB,UZB,B. Ergashev,Botirali Ergashev,GK,6/23/1995,31,189
+10UZB,UZB,B. Karimov,Behruzjon Karimov,DF,8/7/2007,18,172
+11UZB,UZB,D. Khamdamov,Dostonbek Khamdamov,MF,7/24/1996,30,178
+12UZB,UZB,E. Shomurodov,Eldor Shomurodov,FW,6/29/1995,31,190
+13UZB,UZB,F. Sayfiev,Farrukh Sayfiev,DF,1/17/1991,35,183
+14UZB,UZB,I. Sergeev,Igor Sergeev,FW,4/30/1993,33,185
+15UZB,UZB,J. Iskanderov,Jamshid Iskanderov,MF,10/16/1993,32,171
+16UZB,UZB,J. Urozov,Jakhongir Urozov,DF,1/18/2004,22,190
+17UZB,UZB,K. Alijonov,Khojiakbar Alijonov,DF,4/19/1997,29,180
+18UZB,UZB,O. Shukurov,Otabek Shukurov,MF,6/22/1996,30,183
+19UZB,UZB,O. Urunov,Oston Urunov,MF,12/19/2000,25,181
+20UZB,UZB,O. Xamrobekov,Odiljon Xamrobekov,MF,2/13/1996,30,180
+21UZB,UZB,R. Ashurmatov,Rustamjon Ashurmatov,DF,7/7/1996,30,186
+22UZB,UZB,R. Jiyanov,Ruslanbek Jiyanov,MF,6/5/2001,25,176
+23UZB,UZB,S. Esanov,Sherzod Esanov,MF,2/1/2003,23,190
+24UZB,UZB,S. Nasrullaev,Sherzod Nasrullaev,DF,7/23/1998,28,183
+25UZB,UZB,U. Eshmurodov,Umarbek Eshmurodov,DF,11/30/1992,33,185
+26UZB,UZB,U. Yusupov,Utkir Yusupov,GK,1/4/1991,35,185
+01ZAF,ZAF,A. Modiba,Aubrey Maphosa Modiba,DF,7/22/1995,31,171
+02ZAF,ZAF,B. Cross,Bradley Paul Cross,DF,1/30/2001,25,175
+03ZAF,ZAF,E. Makgopa,Sekotori Evidence Makgopa,FW,6/5/2000,26,183
+04ZAF,ZAF,I. Okon,Ime Daniel Okon,DF,2/20/2004,22,187
+05ZAF,ZAF,I. Rayners,Iqraam Rayners,FW,12/19/1995,30,174
+06ZAF,ZAF,J. Adams,Jayden Oswin Adams,MF,5/5/2001,25,177
+07ZAF,ZAF,K. Mudau,Khuliso Johnson Mudau,DF,4/26/1995,31,179
+08ZAF,ZAF,K. Ndamane,Khulumani Ndamane,DF,2/5/2004,22,183
+09ZAF,ZAF,K. Sebelebele,Kamogelo Michael Sebelebele,FW,7/21/2002,24,166
+10ZAF,ZAF,L. Foster,Lyle Brent Foster,FW,9/3/2000,25,185
+11ZAF,ZAF,M. Mbokazi,Mbekezeli Mfanukile Mbokazi,DF,9/19/2005,20,177
+12ZAF,ZAF,N. Sibisi,Nkosinathi Emmanuel Sibisi,DF,9/22/1995,30,172
+13ZAF,ZAF,O. Appollis,Oswin Reagan Appollis,FW,8/25/2001,24,171
+14ZAF,ZAF,O. Makhanya,Olwethu Mpilwenhle Makhanya,DF,4/30/2004,22,185
+15ZAF,ZAF,R. Goss,Stuart Ricardo Goss,GK,4/2/1994,32,181
+16ZAF,ZAF,R. Mofokeng,Relebohile Mofokeng,FW,10/23/2004,21,168
+17ZAF,ZAF,R. Williams,Ronwen Hayden Williams,GK,1/21/1992,34,184
+18ZAF,ZAF,S. Chaine,Sipho Justin Chaine,GK,12/14/1996,29,186
+19ZAF,ZAF,S. Kabini,Samukele Alucious Kabini,DF,3/15/2004,22,179
+20ZAF,ZAF,S. Sithole,Sphephelo S'miso Sithole,MF,3/3/1999,27,197
+21ZAF,ZAF,T. Maseko,Thapelo Maseko,FW,11/11/2003,22,178
+22ZAF,ZAF,T. Matuludi,Tholo Thabang Matuludi,DF,1/14/1999,27,189
+23ZAF,ZAF,T. Mbatha,Thalente Wandile Mbatha,MF,3/6/2000,26,179
+24ZAF,ZAF,T. Mokoena,Teboho Mokoena,MF,1/24/1997,29,177
+25ZAF,ZAF,T. Moremi,Tshepang Moremi,FW,10/2/2000,25,169
+26ZAF,ZAF,T. Zwane,Themba Zwane,MF,8/3/1989,36,178

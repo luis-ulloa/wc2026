@@ -1,0 +1,63 @@
+﻿pen_id,match_id,game_stage,player_id,attempt,result,team,minute,stoppage,shot_type,goal_zone
+P001,M005,regular time,055CHE,,scored,CHE,17,,right foot,low left
+P002,M009,regular time,219DEU,,scored,DEU,45,5,left foot,low left
+P003,M020,regular time,257AUT,,scored,AUT,90,12,right foot,low left
+P004,M022,regular time,158ENG,,scored,ENG,12,,right foot,low right
+P005,M025,regular time,380ZAF,,scored,ZAF,83,,right foot,low left
+P006,M026,regular time,145CHE,,scored,CHE,90,7,left foot,low right
+P007,M041,regular time,238ARG,,missed,ARG,9,,left foot,off right
+P008,M061,regular time,194NOR,,saved,NOR,50,,right foot,low right
+P009,M065,regular time,289IRN,,saved,IRN,11,,right foot,low right
+P010,M070,regular time,397COD,,scored,COD,68,,right foot,low right
+P011,M072,regular time,248ARG,,scored,ARG,31,,right foot,low left
+P012,M075,shootout,219DEU,1st,saved,DEU,120,,left foot,high center
+P013,M075,shootout,293PRY,1st,scored,PRY,120,,left foot,low right
+P014,M075,shootout,192DEU,2nd,scored,DEU,120,,right foot,low left
+P015,M075,shootout,134PRY,2nd,scored,PRY,120,,right foot,low right
+P016,M075,shootout,202DEU,3rd,scored,DEU,120,,right foot,low left
+P017,M075,shootout,267PRY,3rd,scored,PRY,120,,left foot,low left
+P018,M075,shootout,317DEU,4th,saved,DEU,120,,right foot,low right
+P019,M075,shootout,043PRY,4th,missed,PRY,120,,right foot,off left
+P020,M075,shootout,296DEU,5th,scored,DEU,120,,right foot,low right
+P021,M075,shootout,119PRY,5th,saved,PRY,120,,right foot,low right
+P022,M075,shootout,212DEU,6th,missed,DEU,120,,right foot,off high left
+P023,M075,shootout,181PRY,6th,scored,PRY,120,,left foot,high right
+P024,M076,shootout,377NLD,1st,scored,NLD,120,,left foot,low right
+P025,M076,shootout,301MAR,1st,missed,MAR,120,,right foot,off high left
+P026,M076,shootout,193NLD,2nd,missed,NLD,120,,right foot,off left
+P027,M076,shootout,368MAR,2nd,scored,MAR,120,,right foot,low left
+P028,M076,shootout,390NLD,3rd,scored,NLD,120,,right foot,high left
+P029,M076,shootout,081MAR,3rd,scored,MAR,120,,right foot,high right
+P030,M076,shootout,333NLD,4th,missed,NLD,120,,right foot,off left
+P031,M076,shootout,022MAR,4th,missed,MAR,120,,right foot,off left
+P032,M076,shootout,080NLD,5th,saved,NLD,120,,right foot,high left
+P033,M076,shootout,168MAR,5th,scored,MAR,120,,right foot,low left
+P034,M081,extra time,396BEL,,scored,BEL,120,5,right foot,high right
+P035,M084,regular time,079PRT,,scored,PRT,68,,right foot,low center
+P036,M086,shootout,160AUS,1st,missed,AUS,120,,right foot,off high right
+P037,M086,shootout,282EGY,1st,scored,EGY,120,,right foot,low left
+P038,M086,shootout,189AUS,2nd,scored,AUS,120,,right foot,high right
+P039,M086,shootout,347EGY,2nd,scored,EGY,120,,right foot,low left
+P040,M086,shootout,029AUS,3rd,scored,AUS,120,,right foot,low center
+P041,M086,shootout,285EGY,3rd,scored,EGY,120,,left foot,low center
+P042,M086,shootout,235AUS,4th,missed,AUS,120,,right foot,off high right
+P043,M086,shootout,147EGY,4th,scored,EGY,120,,right foot,low left
+P044,M090,regular time,221FRA,,scored,FRA,70,,right foot,low right
+P045,M091,regular time,056BRA,,saved,BRA,14,,right foot,low right
+P046,M091,regular time,318BRA,,scored,BRA,90,10,right foot,low right
+P047,M092,regular time,158ENG,,scored,ENG,60,,right foot,low left
+P048,M092,regular time,341MEX,,scored,MEX,69,,right foot,low left
+P049,M095,regular time,238ARG,,saved,ARG,21,,left foot,low right
+P050,M096,shootout,145CHE,1st,scored,CHE,120,,left foot,high left
+P051,M096,shootout,208COL,1st,scored,COL,120,,left foot,low center
+P052,M096,shootout,398CHE,2nd,scored,CHE,120,,right foot,low right
+P053,M096,shootout,098COL,2nd,missed,COL,120,,right foot,off high center
+P054,M096,shootout,253CHE,3rd,missed,CHE,120,,right foot,off high center
+P055,M096,shootout,180COL,3rd,scored,COL,120,,left foot,low right
+P056,M096,shootout,070CHE,4th,scored,CHE,120,,right foot,high center
+P057,M096,shootout,069COL,4th,saved,COL,120,,right foot,low left
+P058,M096,shootout,352CHE,5th,scored,CHE,120,,right foot,low left
+P059,M096,shootout,233COL,5th,scored,COL,120,,right foot,low left
+P060,M097,regular time,221FRA,,saved,FRA,28,,right foot,low right
+P061,M101,regular time,280ESP,,scored,ESP,22,,left foot,high right
+P062,M103,regular time,059ENG,,scored,ENG,87,,left foot,low right
