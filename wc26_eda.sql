@@ -18,6 +18,25 @@ SELECT COUNT(*) FROM referees; --42; only the ones who got assigned as main refe
 SELECT COUNT(*) FROM stadiums; --16
 
 
+--VIEW THAT SEGREGATES EACH TEAM INTO HOME AND AWAY FOR EACH MATCH---------
+CREATE VIEW match_teams AS
+
+SELECT
+    match_id,
+    home_country_code AS country_code,
+    'Home' AS team_role
+FROM matches
+
+UNION ALL
+
+SELECT
+    match_id,
+    away_country_code AS country_code,
+    'Away' AS team_role
+FROM matches
+ORDER BY match_id;
+
+
 --VIEW THAT SUMMARIZES KEY STATS AGGREGATED BY COUNTRY---------------------
 CREATE	VIEW country_match_stats AS
 SELECT
